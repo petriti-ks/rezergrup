@@ -1,0 +1,1399 @@
+#EXTM3U url-tvg=""
+#EXTINF:-1 tvg-id="rtk.1.al" tvg-name="AL013:RTK 1 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL013RTK1HDAL.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL013:RTK 1 FHD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30621
+#EXTINF:-1 tvg-id="rtk.1.al" tvg-name="AL264:RTK 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL264RTK1HD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL264:RTK 1 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30370
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL266:Rtk 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL266Rtk3HD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL266:Rtk 3 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30368
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL267:Rtk 4 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL267Rtk4HD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL267:Rtk 4 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30367
+#EXTINF:-1 tvg-id="ktv.al" tvg-name="AL088:KTV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL088KTVHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL088:KTV HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30546
+#EXTINF:-1 tvg-id="ktv.al" tvg-name="AL049:KTV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL049KTVHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL049:KTV HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30585
+#EXTINF:-1 tvg-id="klan.kosova.al" tvg-name="AL031:Klan Kosova Toksor" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL031KlanKosovaToksor.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL031:Klan Kosova Toksor
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30603
+#EXTINF:-1 tvg-id="rtv.21.al" tvg-name="AL034:RTV 21 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL034RTV21HD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL034:RTV 21 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30600
+#EXTINF:-1 tvg-id="klan.kosova.al" tvg-name="AL032:KLAN Kosova HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL032KLANKosovaHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL032:KLAN Kosova HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30602
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL132:T7 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL132T7HD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL132:T7 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30502
+#EXTINF:-1 tvg-id="tv.dukagjini.al" tvg-name="AL155:Dukagjini HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL155DukagjiniHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL155:Dukagjini HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30479
+#EXTINF:-1 tvg-id="top.al" tvg-name="AL075:Top Channel FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL075TopChannelHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL075:Top Channel FHD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30559
+#EXTINF:-1 tvg-id="klan.al" tvg-name="AL033:KLAN FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL033KLANHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL033:KLAN FHD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30601
+#EXTINF:-1 tvg-id="abc.news.al" tvg-name="AL058:ABC News" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL058ABCNews.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL058:ABC News
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30576
+#EXTINF:-1 tvg-id="news.24.al" tvg-name="AL027:News 24" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL027News24.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL027:News 24
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30607
+#EXTINF:-1 tvg-id="rtsh.1.al" tvg-name="AL087:RTSH 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL087RTSH1HD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL087:RTSH 1 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30547
+#EXTINF:-1 tvg-id="rtsh.2.al" tvg-name="AL090:RTSH 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL090RTSH2.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL090:RTSH 2
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30544
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL098:RTSH 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL098RTSH3HD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL098:RTSH 3 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30536
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL122:Alb Swiss HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL122AlbSwissHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL122:Alb Swiss HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30512
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL123:ALB WESTERN HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL123ALBWESTERNHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL123:ALB WESTERN HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30511
+#EXTINF:-1 tvg-id="albuk.al" tvg-name="AL125:ALBUK HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL125ALBUKHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL125:ALBUK HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30509
+#EXTINF:-1 tvg-id="alsat.m.al" tvg-name="AL126:Alsat M" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL126AlsatM.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL126:Alsat M
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30508
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL129:Apollon TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL129ApollonTV.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL129:Apollon TV
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30505
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL147:Channel One FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL147ChannelOneFHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL147:Channel One FHD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30487
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL154:Dasma TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL154DTVHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL154:Dasma TV
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30480
+#EXTINF:-1 tvg-id="elrodi.al" tvg-name="AL156:Elrodi TV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL156ElrodiTVHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL156:Elrodi TV HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30478
+#EXTINF:-1 tvg-id="english.club.al" tvg-name="AL157:English Club TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL157EnglishClubTV.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL157:English Club TV
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30477
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL158:Timeless Drama" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL158EraTVHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL158:Timeless Drama
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30476
+#EXTINF:-1 tvg-id="eurochannel.al" tvg-name="AL159:Euro AL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL159EuroAL.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL159:Euro AL
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30475
+#EXTINF:-1 tvg-id="fast.fun.tr" tvg-name="AL165:Travel Chanel" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL165FASTBOX&FUN.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL165:Travel Chanel
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30469
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL168:TDC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL168TDC.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL168:TDC
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30466
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL177:Click TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL177XCifteliHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL177:Click TV
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30457
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL181:Filmi Umeri" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL181FilmiUmeri.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL181:Filmi Umeri
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30453
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL182:First Comedy" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL182FIRSTBurimiTV.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL182:First Comedy
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30452
+#EXTINF:-1 tvg-id="first.al" tvg-name="AL183:First Channel HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL183FirstChannelHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL183:First Channel HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30451
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL190:X Premium 4 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL190XPremium4HD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL190:X Premium 4 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30444
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL244:Shota TV 4K UHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL244ShotaTV4KUHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL244:Shota TV 4K UHD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30390
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL245:MRT 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL245MRT2.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL245:MRT 2
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30389
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL254:ON TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL254ONTV.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL254:ON TV
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30380
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL260:X HBO Gold 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL260XGoldHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL260:X HBO Gold 1
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30374
+#EXTINF:-1 tvg-id="report.al" tvg-name="AL262:Bujanoci RTV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL262ReportTV.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL262:Bujanoci RTV
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30372
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="AL269:LOBI TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL269RTSH1HD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL269:LOBI TV
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30365
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL285:Kuran Hidayah" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL285RTV21PopulloreFHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL285:Kuran Hidayah
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30349
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL286:RTSH KUVEND" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL286RTSHKUVEND.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL286:RTSH KUVEND
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30348
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL289:TV ULQINI" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL289RTVPreshevaHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL289:TV ULQINI
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30345
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL290:Tetova TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL290RtvZeriDanimarke.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL290:Tetova TV
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30344
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL292:RTSH GJIROKASTRA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL292RTSHGJIROKASTRA.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL292:RTSH GJIROKASTRA
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30342
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL293:MEKA LIVE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL293ShaqipTVWESTERNHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL293:MEKA LIVE
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30341
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL294:Rozafa TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL294ShqipTVHindiHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL294:Rozafa TV
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30340
+#EXTINF:-1 tvg-id="tv.tetova.al" tvg-name="AL295:TV Teuta" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL295TVTetovaHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL295:TV Teuta
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30339
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL313:Tring Muse" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL313SoleTV.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL313:Tring Muse
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30321
+#EXTINF:-1 tvg-id="shenja.al" tvg-name="AL315:ART Kino 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL315ARTKino1HD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL315:ART Kino 1 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30319
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL336:TAMADON TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL336TNT.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL336:TAMADON TV
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30298
+#EXTINF:-1 tvg-id="tribuna.al" tvg-name="AL341:Kanali 7 News" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL341Kanali7News.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL341:Kanali 7 News
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30293
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL359:ART Doku 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL359TV2.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL359:ART Doku 2
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30275
+#EXTINF:-1 tvg-id="tring.sport.4.al" tvg-name="AL353:ART Doku 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL353TringSport4HD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL353:ART Doku 1 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30281
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL346:TV Opoja" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL346TVOpoja.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL346:TV Opoja
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30288
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL362:TV Diaspora" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL362TVDiaspora.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL362:TV Diaspora
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30272
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL363:TV Dielli HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL363TVDielliHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL363:TV Dielli HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30271
+#EXTINF:-1 tvg-id="tv.dukagjini.al" tvg-name="AL364:Smile TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL364TVDukagjiniHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL364:Smile TV
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30270
+#EXTINF:-1 tvg-id="koha.al" tvg-name="AL365:TV Koha HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL365TVKohaHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL365:TV Koha HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30269
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL366:TV Liria" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL366TVLiria.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL366:TV Liria
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30268
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL:-----|SERIAL|--------------------" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL-----|SERIAL|--------------------.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL:-----|SERIAL|--------------------
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/61370
+#EXTINF:-1 tvg-id="klan.plus.al" tvg-name="AL030:Klan Plus FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL030KLANPlus.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL030:Klan Plus FHD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30604
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL045:RTV FONTANA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL045RTVFONTANA.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL045:RTV FONTANA
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30589
+#EXTINF:-1 tvg-id="albuk.al" tvg-name="AL057:ALB UK" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL057ALBUK.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL057:ALB UK
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30577
+#EXTINF:-1 tvg-id="jolly.al" tvg-name="AL089:Jolly" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL089JOLLYHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL089:Jolly
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30545
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL104:RTSH Plus HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL104RTSHPlusHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL104:RTSH Plus HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30530
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL119:SuperSonic" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL119SuperSonic.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL119:SuperSonic
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30515
+#EXTINF:-1 tvg-id="family.al" tvg-name="AL152:Family HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL152FamilyHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL152:Family HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30482
+#EXTINF:-1 tvg-id="film.thriller.al" tvg-name="AL180:Filma24 SCI-Fi" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL180FilmThrillerHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL180:Filma24 SCI-Fi
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30454
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL195:Igman Tv Islam" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL195IgmanTvIslam.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL195:Igman Tv Islam
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30439
+#EXTINF:-1 tvg-id="klan.plus.al" tvg-name="AL214:FreeSports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL214KlanPlusHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL214:FreeSports
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30420
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL225:Star Plus" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL224StarPlus.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL225:Star Plus
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30409
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL253:Novela" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL253Novela.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL253:Novela
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30381
+#EXTINF:-1 tvg-id="peace.al" tvg-name="AL257:Peace TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL257PeaceTV.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL257:Peace TV
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30377
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL261:Quran TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL261QuranTV.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL261:Quran TV
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30373
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL287:RTV Islam" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL287RTVIslam.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL287:RTV Islam
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30347
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL288:RTV Pendimi HD TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL288RTVPendimiHDTV.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL288:RTV Pendimi HD TV
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30346
+#EXTINF:-1 tvg-id="stinet.al" tvg-name="AL319:ART Kino 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL319ARTDoku1HD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL319:ART Kino 3 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30315
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL329:Syri Blue HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL329SyriBlueHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL329:Syri Blue HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30305
+#EXTINF:-1 tvg-id="albuk.al" tvg-name="AL056:ALB UK HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL056ALBUKHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL056:ALB UK HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30578
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL112:KS Filma24 Family" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL112RTSHMUZIKEHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL112:KS Filma24 Family
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30522
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL113:Alb Folk1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL113AlbFolk1HD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL113:Alb Folk1 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30521
+#EXTINF:-1 tvg-id="musical.al" tvg-name="AL121:ALB MUSIC HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL121ALBMUSICHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL121:ALB MUSIC HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30513
+#EXTINF:-1 tvg-id="bbf.al" tvg-name="AL140:BBF MUSIC TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL140BBFMUSICTV.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL140:BBF MUSIC TV
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30494
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL141:Besa TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL141BesaTV.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL141:Besa TV
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30493
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL184:FOLK HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL184FOLKHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL184:FOLK HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30450
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL185:STV Folk" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL185Folklorit.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL185:STV Folk
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30449
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL238:Folklorit" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL238Folklorit.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL238:Folklorit
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30396
+#EXTINF:-1 tvg-id="mfm.al" tvg-name="AL246:MFM Music" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL246MFMMusic.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL246:MFM Music
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30388
+#EXTINF:-1 tvg-id="musical.al" tvg-name="AL247:Music TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL247MusicTV.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL247:Music TV
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30387
+#EXTINF:-1 tvg-id="my.music.al" tvg-name="AL248:My Music" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL248MyMusic.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL248:My Music
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30386
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL252:Lugina Popullore" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL252LuginaPopullore.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL252:Lugina Popullore
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30382
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL256:X Popullore HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL256XPopulloreHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL256:X Popullore HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30378
+#EXTINF:-1 tvg-id="rrokum.al" tvg-name="AL263:AdriaNet" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL263RROKUMTVHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL263:AdriaNet
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30371
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL:------|FILM|-------------------------------------" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL------|FILM|-------------------------------------.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL:------|FILM|-------------------------------------
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/61049
+#EXTINF:-1 tvg-id="film.komedi.al" tvg-name="AL005:Sky Komedi" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL005SkyKomedi.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL005:Sky Komedi
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30629
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL007:Muse" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL007SkyALMax.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL007:Muse
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30627
+#EXTINF:-1 tvg-id="vizion.plus.al" tvg-name="AL009:Gurmania" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL009VizionPlusToksor.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL009:Gurmania
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30625
+#EXTINF:-1 tvg-id="vizion.plus.al" tvg-name="AL010:Vizion Plus HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL010VizionPlusHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL010:Vizion Plus HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30624
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL014:Sofia HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL014SkyShkence.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL014:Sofia HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30620
+#EXTINF:-1 tvg-id="tring.comedy.al" tvg-name="AL015:Sky Comedy" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL015SkyComedy.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL015:Sky Comedy
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30619
+#EXTINF:-1 tvg-id="film.aksion.al" tvg-name="AL016:Drita Tv Zvicer" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL016SkyAksion.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL016:Drita Tv Zvicer
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30618
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL036:RTV Ora HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL036KinoROMANCEHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL036:RTV Ora HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30598
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL037:Kino Premiere 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL037KinoPremiere3HD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL037:Kino Premiere 3
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30597
+#EXTINF:-1 tvg-id="family.al" tvg-name="AL040:Kino Premiere 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL040KinoFamilyHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL040:Kino Premiere 2
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30594
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL041:Stupcat" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL041KinoDarkHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL041:Stupcat
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30593
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL043:Kino Action" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL043KinoAction.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL043:Kino Action
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30591
+#EXTINF:-1 tvg-id="junior.al" tvg-name="AL044:Junior TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL044JuniorTV.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL044:Junior TV
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30590
+#EXTINF:-1 tvg-id="film.nje.al" tvg-name="AL047:Film Nje HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL047FilmNjeHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL047:Film Nje HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30587
+#EXTINF:-1 tvg-id="rtsh.sport.al" tvg-name="AL120:Euro Film 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL120RTSHSportsHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL120:Euro Film 2
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30514
+#EXTINF:-1 tvg-id="explorer.histori.al" tvg-name="AL162:X Comedy HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL162ExplorerHistory.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL162:X Comedy HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30472
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="AL270:Netflix Femije" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL270RTSH2HD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL270:Netflix Femije
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30364
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL271:Netflix Aksion" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL271RTSH3HD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL271:Netflix Aksion
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30363
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL296:Netflix Van Damme" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL296ShqipTVCinemaHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL296:Netflix Van Damme
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30338
+#EXTINF:-1 tvg-id="tring.life.al" tvg-name="AL344:Netflix Relaks" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL344TringLifeHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL344:Netflix Relaks
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30290
+#EXTINF:-1 tvg-id="tring.sport.1.al" tvg-name="AL219:Netflix Romance" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL219TringSport1HD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL219:Netflix Romance
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30415
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL297:Netflix Sylvester Stallone" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL297ShqipTVHumorHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL297:Netflix Sylvester Stallone
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30337
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL229:Netflix Horror" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL229RtshMuzike.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL229:Netflix Horror
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30405
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL277:Netflix Jackie Chan" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL277RtshMuzikeHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL277:Netflix Jackie Chan
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30357
+#EXTINF:-1 tvg-id="tring.shqip.al" tvg-name="AL059:Netflix Komedi" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL059A1SHQIPTARE.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL059:Netflix Komedi
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30575
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL061:Report TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL061WesterN.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL061:Report TV
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30573
+#EXTINF:-1 tvg-id="tring.super.al" tvg-name="AL064:Tring Super" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL064TRINGSUPER.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL064:Tring Super
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30570
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL069:Tring Max" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL069TringMax.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL069:Tring Max
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30565
+#EXTINF:-1 tvg-id="tring.life.al" tvg-name="AL070:Tring Life" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL070TringLife.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL070:Tring Life
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30564
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL071:X HBO Gold 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL071TVCHFHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL071:X HBO Gold 4
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30563
+#EXTINF:-1 tvg-id="tring.fantasy.al" tvg-name="AL073:Tring Fantasy" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL073TRINGFANTASY.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL073:Tring Fantasy
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30561
+#EXTINF:-1 tvg-id="tring.comedy.al" tvg-name="AL074:Tring Comedy" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL074TringComedy.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL074:Tring Comedy
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30560
+#EXTINF:-1 tvg-id="film.thriller.al" tvg-name="AL076:Thriller" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL076Thriller.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL076:Thriller
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30558
+#EXTINF:-1 tvg-id="klan.plus.al" tvg-name="AL081:Globi TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL081KLANPLUSHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL081:Globi TV
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30553
+#EXTINF:-1 tvg-id="film.dy.al" tvg-name="AL094:FILM DY" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL094FILMDY.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL094:FILM DY
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30540
+#EXTINF:-1 tvg-id="film.drame.al" tvg-name="AL095:Film Drame" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL095FILMDRAME.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL095:Film Drame
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30539
+#EXTINF:-1 tvg-id="digi.gold.al" tvg-name="AL097:DIGI GOLD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL097DIGIGOLD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL097:DIGI GOLD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30537
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL102:X Action" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL102Action.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL102:X Action
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30532
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL108:RTSH KORCA HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL108RTSHKORCAHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL108:RTSH KORCA HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30526
+#EXTINF:-1 tvg-id="film.aksion.al" tvg-name="AL109:Aksion HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL109AksionHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL109:Aksion HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30525
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL111:Alb Action HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL111AlbActionHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL111:Alb Action HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30523
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL124:RTSH FILM HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL124RTSHFILMHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL124:RTSH FILM HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30510
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL128:VISION PLUS HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL128VISIONPLUSHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL128:VISION PLUS HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30506
+#EXTINF:-1 tvg-id="film.nje.al" tvg-name="AL133:Film Një HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL133FilmNjëHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL133:Film Një HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30501
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL134:ZICO TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL134ZjarrTV.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL134:ZICO TV
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30500
+#EXTINF:-1 tvg-id="film.dy.al" tvg-name="AL135:Filma24 Animacion" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL135FilmDyHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL135:Filma24 Animacion
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30499
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL136:TVSH" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL136VISIONPLUSHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL136:TVSH
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30498
+#EXTINF:-1 tvg-id="film.hits.al" tvg-name="AL142:Film Hits HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL142FilmHitsHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL142:Film Hits HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30492
+#EXTINF:-1 tvg-id="film.autor.al" tvg-name="AL143:Film Autor HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL143FilmAutorHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL143:Film Autor HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30491
+#EXTINF:-1 tvg-id="film.drame.al" tvg-name="AL144:Netflix Dwayne Johnson" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL144FilmDrameHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL144:Netflix Dwayne Johnson
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30490
+#EXTINF:-1 tvg-id="film.thriller.al" tvg-name="AL145:Film Thriller HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL145FilmThrillerHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL145:Film Thriller HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30489
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL146:Disney XD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL146FilmComediHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL146:Disney XD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30488
+#EXTINF:-1 tvg-id="film.aksion.al" tvg-name="AL148:Film Aksion HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL148FilmAksionHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL148:Film Aksion HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30486
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL149:X Western HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL149XWesternHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL149:X Western HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30485
+#EXTINF:-1 tvg-id="film.aksion.al" tvg-name="AL166:Lugina Islam" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL166FILMAKSIONHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL166:Lugina Islam
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30468
+#EXTINF:-1 tvg-id="film.autor.al" tvg-name="AL167:Netflix Bud Spencer & Terence Hill" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL167FilmAutor.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL167:Netflix Bud Spencer & Terence Hill
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30467
+#EXTINF:-1 tvg-id="film.drame.al" tvg-name="AL169:Filma24 Aziatika" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL169FilmDrame.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL169:Filma24 Aziatika
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30465
+#EXTINF:-1 tvg-id="film.dy.al" tvg-name="AL170:Filma24 Western" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL170FilmDyHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL170:Filma24 Western
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30464
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL171:Film Family HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL171FilmFamilyHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL171:Film Family HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30463
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL172:Film Gold 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL172FilmGold1HD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL172:Film Gold 1 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30462
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL173:FILM Gold 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL173FILMGold3HD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL173:FILM Gold 3 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30461
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL174:Film Gold 4 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL174FilmGold4HD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL174:Film Gold 4 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30460
+#EXTINF:-1 tvg-id="film.hits.al" tvg-name="AL175:Filma24 Hindi" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL175FilmHitsHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL175:Filma24 Hindi
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30459
+#EXTINF:-1 tvg-id="film.komedi.al" tvg-name="AL176:Film Komedi" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL176FilmKomedi.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL176:Film Komedi
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30458
+#EXTINF:-1 tvg-id="film.nje.al" tvg-name="AL178:Film Nje HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL178FilmNjeHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL178:Film Nje HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30456
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL179:FILM Stinet HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL179FILMStinetHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL179:FILM Stinet HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30455
+#EXTINF:-1 tvg-id="fox.crime.al" tvg-name="AL186:FOX CRIME HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL186FOXCRIMEHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL186:FOX CRIME HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30448
+#EXTINF:-1 tvg-id="fox.al" tvg-name="AL187:FOX HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL187FOXHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL187:FOX HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30447
+#EXTINF:-1 tvg-id="fox.life.al" tvg-name="AL188:FOX LIFE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL188FOXLIFE.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL188:FOX LIFE
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30446
+#EXTINF:-1 tvg-id="fox.crime.al" tvg-name="AL189:FOX Movies" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL189FOXMovies.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL189:FOX Movies
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30445
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL191:HBO 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL191HBO2.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL191:HBO 2
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30443
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL192:HBO 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL192HBO3.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL192:HBO 3
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30442
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL215:X Premium 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL215XPremium2HD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL215:X Premium 2 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30419
+#EXTINF:-1 tvg-id="tring.comedy.al" tvg-name="AL216:KS COMEDY" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL216KSCOMEDY.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL216:KS COMEDY
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30418
+#EXTINF:-1 tvg-id="film.thriller.al" tvg-name="AL224:X Thriller HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL224XThrillerHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL224:X Thriller HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30410
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL231:Vali TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL231ShqipFantazi.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL231:Vali TV
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30403
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL258:Tring Komedi" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL258TRINGKOMEDI.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL258:Tring Komedi
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30376
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL273:Netflix Fantazi" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL273RTSHFILMHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL273:Netflix Fantazi
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30361
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL274:RTSH Femije TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL274RTSHFemijeTV.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL274:RTSH Femije TV
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30360
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL278:Fashion TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL278RTSHShqipHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL278:Fashion TV
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30356
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL305:Episode TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL305SKyAKSIONHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL305:Episode TV
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30329
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL308:Sky Max" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL308SkyMax.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL308:Sky Max
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30326
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL309:Sky Shkence" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL309SkyShkence.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL309:Sky Shkence
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30325
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL311:Star TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL311SKYPLANET.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL311:Star TV
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30323
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL334:TV Shenja HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL334TVShenjaHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL334:TV Shenja HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30300
+#EXTINF:-1 tvg-id="tip.al" tvg-name="AL335:Tip TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL335TipTV.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL335:Tip TV
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30299
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL342:TV 2 Gostivar" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL342Tring3HD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL342:TV 2 Gostivar
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30292
+#EXTINF:-1 tvg-id="tring.history.al" tvg-name="AL347:MRTV 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL347TringPlanetHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL347:MRTV 2
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30287
+#EXTINF:-1 tvg-id="tring.shqip.al" tvg-name="AL348:Netflix Spider-Man" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL348TRINGSHQIPHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL348:Netflix Spider-Man
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30286
+#EXTINF:-1 tvg-id="supersport.2.al" tvg-name="AL321:Ks Premier 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/" group-title="Albania REZERV GROUP & AGNESA IPTV",AL321:Ks Premier 1
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30313
+#EXTINF:-1 tvg-id="supersport.3.al" tvg-name="AL322:Ks Premier 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/" group-title="Albania REZERV GROUP & AGNESA IPTV",AL322:Ks Premier 2
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30312
+#EXTINF:-1 tvg-id="supersport.4.al" tvg-name="AL323:Ks Premier 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/" group-title="Albania REZERV GROUP & AGNESA IPTV",AL323:Ks Premier 3
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30311
+#EXTINF:-1 tvg-id="supersport.5.al" tvg-name="AL324:Ks Premier 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/" group-title="Albania REZERV GROUP & AGNESA IPTV",AL324:Ks Premier 4
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30310
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL349:Tring Smile" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL349TringSmile.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL349:Tring Smile
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30285
+#EXTINF:-1 tvg-id="explorer.shkence.al" tvg-name="AL052:SCAN TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL052ExplorerShkenc.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL052:SCAN TV
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30582
+#EXTINF:-1 tvg-id="rtv.21.al" tvg-name="AL083:Learn English" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL083RTV21.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL083:Learn English
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30551
+#EXTINF:-1 tvg-id="rtv.21.al" tvg-name="AL280:Tele one EPIC 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL280RTV21.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL280:Tele one EPIC 3 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30354
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL281:Tele one EPIC 4 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL281RTV21Junior.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL281:Tele one EPIC 4 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30353
+#EXTINF:-1 tvg-id="jolly.al" tvg-name="AL198:Tele one EPIC 6 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL198JollyFHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL198:Tele one EPIC 6 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30436
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="AL235:KS Filma24 SCI-Fi" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL235DjingHits.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL235:KS Filma24 SCI-Fi
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30399
+#EXTINF:-1 tvg-id="supersport.6.al" tvg-name="AL325:KS Filma24 Aziatika" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL325SuperSport6FHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL325:KS Filma24 Aziatika
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30309
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL232:KS Filma24 Animacion" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL232ShqipQifteli.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL232:KS Filma24 Animacion
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30402
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL233:KS Filma24 Western" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL233HistoriHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL233:KS Filma24 Western
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30401
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL:------|DOCUMENTARY|--------------------------------" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL------|DOCUMENTARY|--------------------------------.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL:------|DOCUMENTARY|--------------------------------
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/61051
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL006:Ks History" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL006SkyHistori.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL006:Ks History
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30628
+#EXTINF:-1 tvg-id="exp.shkence.al" tvg-name="AL011:Explorer Shkenca HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL011XShkencaHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL011:Explorer Shkenca HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30623
+#EXTINF:-1 tvg-id="living.al" tvg-name="AL029:Living HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL029LivingHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL029:Living HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30605
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL035:Kino Scifi HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL035KinoScifiHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL035:Kino Scifi HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30599
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL042:ID Xtra" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL042RTV21POPULLORE.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL042:ID Xtra
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30592
+#EXTINF:-1 tvg-id="explorer.natyra.al" tvg-name="AL053:Explorer Natyra" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL053ExplorerNatyra.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL053:Explorer Natyra
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30581
+#EXTINF:-1 tvg-id="explorer.histori.al" tvg-name="AL054:Explorer History" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL054ExplorerHistori.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL054:Explorer History
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30580
+#EXTINF:-1 tvg-id="tring.world.al" tvg-name="AL062:Tring World" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL062TringWorld.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL062:Tring World
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30572
+#EXTINF:-1 tvg-id="tring.planet.al" tvg-name="AL068:Tring Planet" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL068TringPlanet.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL068:Tring Planet
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30566
+#EXTINF:-1 tvg-id="tring.history.al" tvg-name="AL072:SROOD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL072TRINGHISTORI.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL072:SROOD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30562
+#EXTINF:-1 tvg-id="exp.histori.al" tvg-name="AL096:X Histori HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL096EXPHISTORI.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL096:X Histori HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30538
+#EXTINF:-1 tvg-id="animal.planet.al" tvg-name="AL127:Star+ Shkodra" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL127ANIMALPLANETHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL127:Star+ Shkodra
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30507
+#EXTINF:-1 tvg-id="explorer.shkence.al" tvg-name="AL164:FESTINA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL164ExplorerShkenceHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL164:FESTINA
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30470
+#EXTINF:-1 tvg-id="living.al" tvg-name="AL243:MCN TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL243LivingHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL243:MCN TV
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30391
+#EXTINF:-1 tvg-id="tring.super.al" tvg-name="AL355:Folk +" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL355TringSuperFHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL355:Folk +
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30279
+#EXTINF:-1 tvg-id="nat.geo.al" tvg-name="AL249:NAT GEO HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL249NATGEOHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL249:NAT GEO HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30385
+#EXTINF:-1 tvg-id="nat.geo.wild.al" tvg-name="AL250:NAT GEO WILD HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL250NATGEOWILDHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL250:NAT GEO WILD HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30384
+#EXTINF:-1 tvg-id="exp.natyra.al" tvg-name="AL352:AMOL TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL352XNatyraHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL352:AMOL TV
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30282
+#EXTINF:-1 tvg-id="tring.sport.2.al" tvg-name="AL220:Discovery Science" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL220TringSport2HD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL220:Discovery Science
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30414
+#EXTINF:-1 tvg-id="tring.sport.3.al" tvg-name="AL221:Discovery Channel" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL221TringSport3HD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL221:Discovery Channel
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30413
+#EXTINF:-1 tvg-id="tring.sport.4.al" tvg-name="AL222:DTX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL222TRINGSPORT4HD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL222:DTX
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30412
+#EXTINF:-1 tvg-id="tring.international.al" tvg-name="AL369:Tring International" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL369TringSport3.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL369:Tring International
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30265
+#EXTINF:-1 tvg-id="tring.world.al" tvg-name="AL357:Tring 3+ HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL357TringWorldHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL357:Tring 3+ HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30277
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL:------|Gazetari|---------------------------------------" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL------|LAJME|---------------------------------------.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL:------|Gazetari|---------------------------------------
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/61050
+#EXTINF:-1 tvg-id="klan.kosova.al" tvg-name="AL077:Tirana TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL077KLANKOSOVAHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL077:Tirana TV
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30557
+#EXTINF:-1 tvg-id="ora.news.al" tvg-name="AL085:ORA News HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL085OraNews(1).png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL085:ORA News HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30549
+#EXTINF:-1 tvg-id="news.24.al" tvg-name="AL086:Gezuar 2022" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL086News24(1).png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL086:Gezuar 2022
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30548
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL099:RTSH 24 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL099RTSH24HD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL099:RTSH 24 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30535
+#EXTINF:-1 tvg-id="abc.news.al" tvg-name="AL107:ABC News HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL107ABCNewsHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL107:ABC News HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30527
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL291:Istogu Channel" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL291A2CNN.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL291:Istogu Channel
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30343
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL318:ART Kino 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL318ARTKino2HD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL318:ART Kino 2 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30316
+#EXTINF:-1 tvg-id="top.al" tvg-name="AL338:Kopliku TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL338TopChannelHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL338:Kopliku TV
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30296
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL:------|SPORT|--------------------------------------" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL------|SPORT|--------------------------------------.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL:------|SPORT|--------------------------------------
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/61047
+#EXTINF:-1 tvg-id="supersport.1.al" tvg-name="AL004:Super Sport 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL004SuperSport1HD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL004:Super Sport 1 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30630
+#EXTINF:-1 tvg-id="supersport.2.al" tvg-name="AL003:Super Sport 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL003SuperSport2HD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL003:Super Sport 2 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30631
+#EXTINF:-1 tvg-id="supersport.3.al" tvg-name="AL002:Super Sport 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL002SuperSport3HD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL002:Super Sport 3 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30632
+#EXTINF:-1 tvg-id="supersport.4.al" tvg-name="AL001:Super Sport 4 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL001SuperSport4HD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL001:Super Sport 4 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30633
+#EXTINF:-1 tvg-id="supersport.5.al" tvg-name="AL078:SuperSport 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL078SuperSport5.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL078:SuperSport 5
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30556
+#EXTINF:-1 tvg-id="supersport.3.al" tvg-name="AL080:Super Sport KOSOVA 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL080SuperSport3.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL080:Super Sport KOSOVA 3 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30554
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL327:Super Sport Kosova 2 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL327SuperSportKosova2FHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL327:Super Sport Kosova 2 FHD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30307
+#EXTINF:-1 tvg-id="supersport.1.al" tvg-name="AL082:Super Sport Kosova 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL082SuperSportKosovo1HD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL082:Super Sport Kosova 1 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30552
+#EXTINF:-1 tvg-id="rtsh.sport.al" tvg-name="AL021:RTSH Sport HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL021RTSHSportHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL021:RTSH Sport HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30613
+#EXTINF:-1 tvg-id="tring.sport.1.al" tvg-name="AL012:Tring Sport 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL012TringSport2HD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL012:Tring Sport 1
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30622
+#EXTINF:-1 tvg-id="tring.sport.2.al" tvg-name="AL065:Tring Sport 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL065TRINGSPORT4HD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL065:Tring Sport 2
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30569
+#EXTINF:-1 tvg-id="tring.sport.3.al" tvg-name="AL066:Tring Sport 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL066TRINGSPORT1HD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL066:Tring Sport 3
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30568
+#EXTINF:-1 tvg-id="supersport.4.al" tvg-name="AL079:Euro Film 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL079SuperSport4.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL079:Euro Film 4
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30555
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL101:KS Filma24 Hindi" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL101ALBHindi.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL101:KS Filma24 Hindi
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30533
+#EXTINF:-1 tvg-id="rrokum.al" tvg-name="AL131:Top Estrada TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL131RROKUMTVHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL131:Top Estrada TV
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30503
+#EXTINF:-1 tvg-id="eurosport.al" tvg-name="AL160:EUROSPORT 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL160EUROSPORT1HD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL160:EUROSPORT 1 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30474
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL161:EUROSPORT 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL161EUROSPORT2HD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL161:EUROSPORT 2 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30473
+#EXTINF:-1 tvg-id="explorer.natyra.al" tvg-name="AL163:Extreme Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL163ExtremeSports.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL163:Extreme Sports
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30471
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL200:K Sport 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL200KSport1HD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL200:K Sport 1 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30434
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL201:K Sport 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL201KSport2HD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL201:K Sport 2 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30433
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL028:K Sport 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL028RTK4HDAL.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL028:K Sport 3 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30606
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL203:K Sport 4 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL203KSport4HD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL203:K Sport 4 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30431
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL259:OVERSPORT 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL259XRomanceHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL259:OVERSPORT 1
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30375
+#EXTINF:-1 tvg-id="rtsh.sport.al" tvg-name="AL279:OVERSPORT 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL279RTSHSportHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL279:OVERSPORT 2
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30355
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL282:OVERSPORT 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL282RTV21MixHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL282:OVERSPORT 3
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30352
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL284:OVERSPORT 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL284RTVPlusHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL284:OVERSPORT 4
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30350
+#EXTINF:-1 tvg-id="tring.sport.news.al" tvg-name="AL351:Tring Sport News" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL351TringSport2FHD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL351:Tring Sport News
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30283
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL314:ART Sport 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL314ARTSport1HD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL314:ART Sport 1 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30320
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL298:Art Sport 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL298ArtSport 2HD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL298:Art Sport 2 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30336
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL299:Art Sport 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL299ArtSport3HD.png" group-title="Albania REZERV GROUP & AGNESA IPTV",AL299:Art Sport 3 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30335
+#EXTINF:-1 tvg-id="bein.sports.7.us" tvg-name="US124:Bein Sport 5 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US124BeIN7Sports.png" group-title="USA Sports",US124:Bein Sport 5 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30066
+#EXTINF:-1 tvg-id="bein.sports.6.us" tvg-name="US125:Bein Sport 6 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US125BeIN6Sports.png" group-title="USA Sports",US125:Bein Sport 6 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30065
+#EXTINF:-1 tvg-id="bein.sports.5.us" tvg-name="US126:Bein Sport 7 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US126BeIN5Sports.png" group-title="USA Sports",US126:Bein Sport 7 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30064
+#EXTINF:-1 tvg-id="bein.sports.4.us" tvg-name="US127:Bein Sport 8 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US127BeIN4Sports.png" group-title="USA Sports",US127:Bein Sport 8 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30063
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="US132:Stadium Sports 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US132Stadium3.png" group-title="USA Sports",US132:Stadium Sports 1
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30058
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="US133:Stadium Sports 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US133Stadium2.png" group-title="USA Sports",US133:Stadium Sports 2
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30057
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="US134:Stadium Sports 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US134Stadium1.png" group-title="USA Sports",US134:Stadium Sports 3
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/30056
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK:------|SPORT|---------------------------------------" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK------|SPORT|---------------------------------------.png" group-title="UK Sports",UK:------|SPORT|---------------------------------------
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/60643
+#EXTINF:-1 tvg-id="bt.sport.1.gb" tvg-name="UK014:BT Sport 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK014BTSport1.png" group-title="UK Sports",UK014:BT Sport 1 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/2943
+#EXTINF:-1 tvg-id="bt.sport.2.gb" tvg-name="UK015:BT Sport 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK015BTSport2.png" group-title="UK Sports",UK015:BT Sport 2 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/2942
+#EXTINF:-1 tvg-id="bt.sport.3.gb" tvg-name="UK016:BT Sport 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK016BTSport3.png" group-title="UK Sports",UK016:BT Sport 3 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/2941
+#EXTINF:-1 tvg-id="bt.sport.espn.gb" tvg-name="UK017:BT Sport ESPN FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK017BTSportESPN.png" group-title="UK Sports",UK017:BT Sport ESPN FHD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/2940
+#EXTINF:-1 tvg-id="mutv.gb" tvg-name="UK062:MUTV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK062MUTV.png" group-title="UK Sports",UK062:MUTV HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/2895
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK160:MUTV FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK160ManchesterUnitedTV.png" group-title="UK Sports",UK160:MUTV FHD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28899
+#EXTINF:-1 tvg-id="eurosport.1.gb" tvg-name="UK040:Euro Sport 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK040EuroSport1.png" group-title="UK Sports",UK040:Euro Sport 1 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/2917
+#EXTINF:-1 tvg-id="eurosport.2.gb" tvg-name="UK041:Euro Sport 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK041EuroSport2.png" group-title="UK Sports",UK041:Euro Sport 2 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/2916
+#EXTINF:-1 tvg-id="sky.sports.arena.gb" tvg-name="UK055:Sky Sports Arena HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK055SkySportsArena.png" group-title="UK Sports",UK055:Sky Sports Arena HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/2902
+#EXTINF:-1 tvg-id="sky.sports.mix.gb" tvg-name="UK075:Sky Sports Mix FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK075SkySportsMix.png" group-title="UK Sports",UK075:Sky Sports Mix FHD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/2882
+#EXTINF:-1 tvg-id="sky.sports.main.event.gb" tvg-name="UK076:Sky Sports MainEvent HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK076SkySportsMainEvent.png" group-title="UK Sports",UK076:Sky Sports MainEvent HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/2881
+#EXTINF:-1 tvg-id="sky.sports.action.gb" tvg-name="UK077:Sky Sports Action HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK077SkySportsAction.png" group-title="UK Sports",UK077:Sky Sports Action HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/2880
+#EXTINF:-1 tvg-id="sky.sports.cricket.gb" tvg-name="UK078:Sky Sports Cricket HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK078SkySportsCricket.png" group-title="UK Sports",UK078:Sky Sports Cricket HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/2879
+#EXTINF:-1 tvg-id="sky.sports.golf.gb" tvg-name="UK079:Sky Sports Golf HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK079SkySportsGolf.png" group-title="UK Sports",UK079:Sky Sports Golf HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/2878
+#EXTINF:-1 tvg-id="sky.sports.premier.league.gb" tvg-name="UK080:Sky Sports PremierLeague HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK080SkySportsPremierLeague.png" group-title="UK Sports",UK080:Sky Sports PremierLeague HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/2877
+#EXTINF:-1 tvg-id="sky.sports.premier.league.gb" tvg-name="UK117:Sky Sports Premier League SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK117SkySportsPremierLeagueSD.png" group-title="UK Sports",UK117:Sky Sports Premier League SD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28942
+#EXTINF:-1 tvg-id="sky.sports.f1.gb" tvg-name="UK081:Sky Sports F1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK081SkySportsF1.png" group-title="UK Sports",UK081:Sky Sports F1 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/2876
+#EXTINF:-1 tvg-id="racing.gb" tvg-name="UK086:Racing" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK086RacingUK.png" group-title="UK Sports",UK086:Racing
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/2871
+#EXTINF:-1 tvg-id="sky.sports.football.gb" tvg-name="UK087:Sky Sports Football HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK087SkySportsFootball.png" group-title="UK Sports",UK087:Sky Sports Football HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/2870
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="UK101:Sky Sports Action FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK101SKYSPORTSACTION.png" group-title="UK Sports",UK101:Sky Sports Action FHD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28958
+#EXTINF:-1 tvg-id="eir.sport.1.gb" tvg-name="UK089:Eir Sport 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK089EirSport1.png" group-title="UK Sports",UK089:Eir Sport 1
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/2868
+#EXTINF:-1 tvg-id="eir.sport.2.gb" tvg-name="UK179:Eir Sport 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK179Boxnation.png" group-title="UK Sports",UK179:Eir Sport 2
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28880
+#EXTINF:-1 tvg-id="lfc.gb" tvg-name="UK110:LFC TV SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK110LFCTV.png" group-title="UK Sports",UK110:LFC TV SD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28949
+#EXTINF:-1 tvg-id="eurosport.1.gb" tvg-name="UK113:Eurosport 1 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK113Eurosport1.png" group-title="UK Sports",UK113:Eurosport 1 FHD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28946
+#EXTINF:-1 tvg-id="eurosport.2.gb" tvg-name="UK112:Eurosport 2 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK112Eurosport2.png" group-title="UK Sports",UK112:Eurosport 2 FHD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28947
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK106:Premiere Sport HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK106PREMIERESPORTHD.png" group-title="UK Sports",UK106:Premiere Sport HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28953
+#EXTINF:-1 tvg-id="premier.sports.2.gb" tvg-name="UK144:Premier Sports 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK144PremierSportsFHD1080.png" group-title="UK Sports",UK144:Premier Sports 2
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28915
+#EXTINF:-1 tvg-id="bt.sport.x1.gb" tvg-name="UK122:BT Sport Extra 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK122BTSportExtra1.png" group-title="UK Sports",UK122:BT Sport Extra 1
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28937
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK123:At The Races FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK123AtTheRaces.png" group-title="UK Sports",UK123:At The Races FHD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28936
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK182:At The Races HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK182AtTheRaces.png" group-title="UK Sports",UK182:At The Races HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28877
+#EXTINF:-1 tvg-id="sky.sports.main.event.gb" tvg-name="UK140:BT Sport Box Office PPV (Live During Events Only)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK140SkySportMainEventsHD.png" group-title="UK Sports",UK140:BT Sport Box Office PPV (Live During Events Only)
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28919
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK105:Setanta Sports 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK105SetantaSports1.png" group-title="UK Sports",UK105:Setanta Sports 1
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28954
+#EXTINF:-1 tvg-id="+.globosat.br" tvg-name="UK141:BeIN Sports 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK141beINSports1.png" group-title="UK Sports",UK141:BeIN Sports 1 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28918
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK142:BeIN Sports 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK142beINSports2.png" group-title="UK Sports",UK142:BeIN Sports 2 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28917
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK143:BeIN Sports 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK143beINSports3.png" group-title="UK Sports",UK143:BeIN Sports 3 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28916
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK159:Mototrs TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK159MototrsTV.png" group-title="UK Sports",UK159:Mototrs TV
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28900
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK178:EDGEsport" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK178BTSportEuropeHD.png" group-title="UK Sports",UK178:EDGEsport
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28881
+#EXTINF:-1 tvg-id="boxnation.gb" tvg-name="UK203:Boxnation HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK203BOXNATIONFHD.png" group-title="UK Sports",UK203:Boxnation HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28856
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK204:SuperSport Action FHD (Match Time)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK204EPL1.png" group-title="UK Sports",UK204:SuperSport Action FHD (Match Time)
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28855
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK205:SuperSport Cricket FHD (Match Time)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK205EPL2.png" group-title="UK Sports",UK205:SuperSport Cricket FHD (Match Time)
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28854
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK206:SuperSport Football FHD (Match Time)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK206EPL3.png" group-title="UK Sports",UK206:SuperSport Football FHD (Match Time)
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28853
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK207:Supersport Golf (match time)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK207EPL4.png" group-title="UK Sports",UK207:Supersport Golf (match time)
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28852
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK208:SuperSport Grandstand FHD (Match Time)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK208EPL5.png" group-title="UK Sports",UK208:SuperSport Grandstand FHD (Match Time)
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28851
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK209:SuperSport LaLiga FHD (Match Time)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK209EPL6.png" group-title="UK Sports",UK209:SuperSport LaLiga FHD (Match Time)
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28850
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK210:SuperSport Motorsport FHD (Match Time)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK210EPL7.png" group-title="UK Sports",UK210:SuperSport Motorsport FHD (Match Time)
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28849
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK211:SuperSport Premier League FHD (Match Time)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK211EPL8.png" group-title="UK Sports",UK211:SuperSport Premier League FHD (Match Time)
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28848
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK213:SuperSport Rugby FHD (Match Time)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK213EPL10.png" group-title="UK Sports",UK213:SuperSport Rugby FHD (Match Time)
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28846
+#EXTINF:-1 tvg-id="eurosport.2.gb" tvg-name="UK241:SuperSport Variety 1 FHD (Match Time)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK241EUROSPORT2FHD.png" group-title="UK Sports",UK241:SuperSport Variety 1 FHD (Match Time)
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28818
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK212:SuperSport PSL FHD (Match Time)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK212EPL9.png" group-title="UK Sports",UK212:SuperSport PSL FHD (Match Time)
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28847
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK319:SuperSport Tennis FHD (Match Time)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK319SkySportsACTIONHD.png" group-title="UK Sports",UK319:SuperSport Tennis FHD (Match Time)
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28740
+#EXTINF:-1 tvg-id="bt.sport.x1.gb" tvg-name="UK215:BT Sport Extra 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK215BTSportExtra1.png" group-title="UK Sports",UK215:BT Sport Extra 1
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28844
+#EXTINF:-1 tvg-id="bt.sport.x2.gb" tvg-name="UK216:BT Sport Extra 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK216BTSportExtra2.png" group-title="UK Sports",UK216:BT Sport Extra 2
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28843
+#EXTINF:-1 tvg-id="bt.sport.x3.gb" tvg-name="UK217:BT Sport Extra 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK217BTSportExtra3.png" group-title="UK Sports",UK217:BT Sport Extra 3
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28842
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK218:BT Sport Extra 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK218BTSportExtra4.png" group-title="UK Sports",UK218:BT Sport Extra 4
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28841
+#EXTINF:-1 tvg-id="bt.sport.x4.gb" tvg-name="UK120:BT Sport Extra 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK120BTSportExtra4.png" group-title="UK Sports",UK120:BT Sport Extra 5
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28939
+#EXTINF:-1 tvg-id="bt.sport.x2.gb" tvg-name="UK121:BT Sports Extra 6" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK121BTSportExtra2.png" group-title="UK Sports",UK121:BT Sports Extra 6
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28938
+#EXTINF:-1 tvg-id="bt.sport.box.office.gb" tvg-name="UK227:UFC fight night Pass" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK227ClublandTV.png" group-title="UK Sports",UK227:UFC fight night Pass
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28832
+#EXTINF:-1 tvg-id="eurosport.1.gb" tvg-name="UK240:Sky Sports The Open HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK240EUROSPORT1FHD.png" group-title="UK Sports",UK240:Sky Sports The Open HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28819
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK242:Fightbox HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK242FightboxHD.png" group-title="UK Sports",UK242:Fightbox HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28817
+#EXTINF:-1 tvg-id="freesports.gb" tvg-name="UK247:Free Sports TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK247FreeSportsTV.png" group-title="UK Sports",UK247:Free Sports TV
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28812
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK248: CELTIC TV (LIVE MATCHES ONLY)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK248CELTICTV(LIVEMATCHESONLY).png" group-title="UK Sports",UK248: CELTIC TV (LIVE MATCHES ONLY)
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28811
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK256:Horse Country" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK256HorseCountry.png" group-title="UK Sports",UK256:Horse Country
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28803
+#EXTINF:-1 tvg-id="40.graus.br" tvg-name="UK125:DAZN 1 (Match Time)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK125PremierSportsHD.png" group-title="UK Sports",UK125:DAZN 1 (Match Time)
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28934
+#EXTINF:-1 tvg-id="lfc.gb" tvg-name="UK265:DAZN 2 (Match Time)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK265LFCTV.png" group-title="UK Sports",UK265:DAZN 2 (Match Time)
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28794
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK155:DAZN 3 (Match Time)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK155SkySport1SD.png" group-title="UK Sports",UK155:DAZN 3 (Match Time)
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28904
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK235:DAZN 4 (Match Time)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK235EIRSPORTS2HD.png" group-title="UK Sports",UK235:DAZN 4 (Match Time)
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28824
+#EXTINF:-1 tvg-id="liverpool.fc.gb" tvg-name="UK259:DAZN 5 (Match Time)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK259LiverpoolFCTV.png" group-title="UK Sports",UK259:DAZN 5 (Match Time)
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28800
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK297:Sky Sports Box Office" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK297SkyBoxOffice.png" group-title="UK Sports",UK297:Sky Sports Box Office
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28762
+#EXTINF:-1 tvg-id="viceland.gb" tvg-name="UK138:Rush Sport 1 - 3pm (Match Time)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK138VICELAND.png" group-title="UK Sports",UK138:Rush Sport 1 - 3pm (Match Time)
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28921
+#EXTINF:-1 tvg-id="tcm.movies.gb" tvg-name="UK322:Rush Sport 2 - 3pm (Match Time)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/" group-title="UK Sports",UK322:Rush Sport 2 - 3pm (Match Time)
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28729
+#EXTINF:-1 tvg-id="pop.max.gb" tvg-name="UK283:Rush Sport 3 - 3pm (Match Time)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK283PopMax.png" group-title="UK Sports",UK283:Rush Sport 3 - 3pm (Match Time)
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28776
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK311:Rangers FC TV (LIVE MATCHES ONLY)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK311RANGERSTV(LIVEMATCHESONLY).png" group-title="UK Sports",UK311:Rangers FC TV (LIVE MATCHES ONLY)
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28748
+#EXTINF:-1 tvg-id="sky.sports.racing.gb" tvg-name="UK318:Sky Sports Racing FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK318SkySportsRacingFHD.png" group-title="UK Sports",UK318:Sky Sports Racing FHD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28741
+#EXTINF:-1 tvg-id="gold.gb" tvg-name="UK249:Gold TV FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK249GOLDFHD.png" group-title="UK Ent",UK249:Gold TV FHD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28810
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR:-----|SPORT|------------------------------" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR-----|SPORT|------------------------------.png" group-title="FR Sports",FR:-----|SPORT|------------------------------
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/60618
+#EXTINF:-1 tvg-id="ab.moteurs.fr" tvg-name="FR003:AB Moteur" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR003ABMoteur.png" group-title="FR Sports",FR003:AB Moteur
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/2863
+#EXTINF:-1 tvg-id="bein.sports.max.4.fr" tvg-name="FR009:Bein Sport 4 Max" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR009BeinSport4Max.png" group-title="FR Sports",FR009:Bein Sport 4 Max
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/2857
+#EXTINF:-1 tvg-id="bein.sports.max.5.fr" tvg-name="FR011:Bein Sport 5 Max" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR011BeinSport5Max.png" group-title="FR Sports",FR011:Bein Sport 5 Max
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/2855
+#EXTINF:-1 tvg-id="bein.sports.max.6.fr" tvg-name="FR012:Bein Sport 6 Max" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR012BeinSport6Max.png" group-title="FR Sports",FR012:Bein Sport 6 Max
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/2854
+#EXTINF:-1 tvg-id="bein.sports.max.7.fr" tvg-name="FR013:Bein Sport 7 Max" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR013BeinSport7Max.png" group-title="FR Sports",FR013:Bein Sport 7 Max
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/2853
+#EXTINF:-1 tvg-id="bein.sports.max.8.fr" tvg-name="FR014:Bein Sport 8 Max" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR014BeinSport8Max.png" group-title="FR Sports",FR014:Bein Sport 8 Max
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/2852
+#EXTINF:-1 tvg-id="bein.sports.max.9.fr" tvg-name="FR015:Bein Sport 9 Max" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR015BeinSport9Max.png" group-title="FR Sports",FR015:Bein Sport 9 Max
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/2851
+#EXTINF:-1 tvg-id="bein.sports.max.10.fr" tvg-name="FR010:Bein Sport 10 Max" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR010BeinSport10Max.png" group-title="FR Sports",FR010:Bein Sport 10 Max
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/2856
+#EXTINF:-1 tvg-id="bein.sports.3.fr" tvg-name="FR016:Bein Sport 1 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR017BeinSport1.png" group-title="FR Sports",FR016:Bein Sport 1 FHD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/2850
+#EXTINF:-1 tvg-id="bein.sports.1.fr" tvg-name="FR017:Bein Sport 2 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR018BeinSport2.png" group-title="FR Sports",FR017:Bein Sport 2 FHD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/2849
+#EXTINF:-1 tvg-id="bein.sports.2.fr" tvg-name="FR018:Bein Sport 3 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR016BeinSport3.png" group-title="FR Sports",FR018:Bein Sport 3 FHD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/2848
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="FR027:CANAL+ Sport HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR027CanalSport.png" group-title="FR Sports",FR027:CANAL+ Sport HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/2839
+#EXTINF:-1 tvg-id="equidia.live.fr" tvg-name="FR048:Equidiae Live" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR048EquidiaeLive.png" group-title="FR Sports",FR048:Equidiae Live
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/2818
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="FR250:Canal+ Alpha" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR250CANALSPORTFHD.png" group-title="FR Sports",FR250:Canal+ Alpha
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28059
+#EXTINF:-1 tvg-id="eurosport.fr" tvg-name="FR050:Euro Sport 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR050EuroSport1FR.png" group-title="FR Sports",FR050:Euro Sport 1 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/2816
+#EXTINF:-1 tvg-id="eurosport.2.fr" tvg-name="FR051:Euro Sport 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR051EuroSport2FR.png" group-title="FR Sports",FR051:Euro Sport 2 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/2815
+#EXTINF:-1 tvg-id="info.sport.fr" tvg-name="FR062:INFOSPORT + HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR062InfoSport.png" group-title="FR Sports",FR062:INFOSPORT + HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/2804
+#EXTINF:-1 tvg-id="rmc.sport.4.fr" tvg-name="FR080:SFR Sport 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR080SFRSport4.png" group-title="FR Sports",FR080:SFR Sport 4
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/2786
+#EXTINF:-1 tvg-id="rmc.sport.1.fr" tvg-name="FR081:SFR Sport 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR081SFRSport1.png" group-title="FR Sports",FR081:SFR Sport 1
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/2785
+#EXTINF:-1 tvg-id="rmc.sport.2.fr" tvg-name="FR082:SFR Sport 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR082SFRSport2.png" group-title="FR Sports",FR082:SFR Sport 2
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/2784
+#EXTINF:-1 tvg-id="rmc.sport.3.fr" tvg-name="FR083:SFR Sport 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR083SFRSport3.png" group-title="FR Sports",FR083:SFR Sport 3
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/2783
+#EXTINF:-1 tvg-id="eurosport.2.fr" tvg-name="FR111:Eurosport 2 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR111Eurosport2.png" group-title="FR Sports",FR111:Eurosport 2 FHD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28198
+#EXTINF:-1 tvg-id="eurosport.1.fr" tvg-name="FR112:Eurosport 1 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR112Eurosport1.png" group-title="FR Sports",FR112:Eurosport 1 FHD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28197
+#EXTINF:-1 tvg-id="golf.fr" tvg-name="FR176:Golf Channel HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR176GOLF.png" group-title="FR Sports",FR176:Golf Channel HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28133
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR211:GOLF+ HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR211GOLFHD.png" group-title="FR Sports",FR211:GOLF+ HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28098
+#EXTINF:-1 tvg-id="tcm.cinema.fr" tvg-name="FR187:Teleclub Zoom" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR187TCMCINEMAFHD.png" group-title="FR Sports",FR187:Teleclub Zoom
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28122
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR177:BFM Sport" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR177BFMSPORT.png" group-title="FR Sports",FR177:BFM Sport
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28132
+#EXTINF:-1 tvg-id="altice.studio.fr" tvg-name="FR196:Pluto TV Action Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR196ALTICESTUDIOFHD.png" group-title="FR Sports",FR196:Pluto TV Action Sports
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28113
+#EXTINF:-1 tvg-id="sport.en.france.fr" tvg-name="FR311:TV8 MontBlanc" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR311OCSMAXFHD.png" group-title="FR Sports",FR311:TV8 MontBlanc
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/27998
+#EXTINF:-1 tvg-id="rmc.sport.access.1.fr" tvg-name="FR337:RMC ACCESS 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR337RMCACCESS1.png" group-title="FR Sports",FR337:RMC ACCESS 1
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/27972
+#EXTINF:-1 tvg-id="rmc.sport.access.2.fr" tvg-name="FR338:RMC ACCESS  2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR338RMCACCESS2.png" group-title="FR Sports",FR338:RMC ACCESS  2
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/27971
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR339:RMC ACCESS 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR339OrangePremium6.png" group-title="FR Sports",FR339:RMC ACCESS 3
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/27970
+#EXTINF:-1 tvg-id="rmc.sport.1.fr" tvg-name="FR349:RMC Sport 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR349RMCSPORT1HD.png" group-title="FR Sports",FR349:RMC Sport 1 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/27960
+#EXTINF:-1 tvg-id="rmc.sport.2.fr" tvg-name="FR350:RMC Sport 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR350RMCSPORT2HD.png" group-title="FR Sports",FR350:RMC Sport 2 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/27959
+#EXTINF:-1 tvg-id="rmc.sport.3.fr" tvg-name="FR351:RMC Sport 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR351RMCSPORT3HD.png" group-title="FR Sports",FR351:RMC Sport 3 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/27958
+#EXTINF:-1 tvg-id="rmc.sport.4.fr" tvg-name="FR352:RMC Sport 4 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR352RMCSPORT4HD.png" group-title="FR Sports",FR352:RMC Sport 4 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/27957
+#EXTINF:-1 tvg-id="rmc.sport.live.5.fr" tvg-name="FR121:RMC Sport 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR121RMCSport5.png" group-title="FR Sports",FR121:RMC Sport 5
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28188
+#EXTINF:-1 tvg-id="rmc.decouverte.fr" tvg-name="FR348:RMC Sport 6" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR348RMCSport6.png" group-title="FR Sports",FR348:RMC Sport 6
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/27961
+#EXTINF:-1 tvg-id="rmc.sport.live.7.fr" tvg-name="FR129:RMC Sport 7" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR129RMCSport7.png" group-title="FR Sports",FR129:RMC Sport 7
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28180
+#EXTINF:-1 tvg-id="rmc.sport.live.8.fr" tvg-name="FR130:RMC Sport 8" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR130RMCSport8.png" group-title="FR Sports",FR130:RMC Sport 8
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28179
+#EXTINF:-1 tvg-id="rmc.sport.live.9.fr" tvg-name="FR254:RMC Sport 9" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR254RMCSport9.png" group-title="FR Sports",FR254:RMC Sport 9
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28055
+#EXTINF:-1 tvg-id="rmc.sport.live.10.fr" tvg-name="FR256:RMC Sport 10" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR256RMCSport10.png" group-title="FR Sports",FR256:RMC Sport 10
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28053
+#EXTINF:-1 tvg-id="rmc.sport.live.11.fr" tvg-name="FR257:RMC Sport 11" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR257RMCSport11.png" group-title="FR Sports",FR257:RMC Sport 11
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28052
+#EXTINF:-1 tvg-id="rmc.sport.live.12.fr" tvg-name="FR266:RMC Sport 12" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR266RMCSport12.png" group-title="FR Sports",FR266:RMC Sport 12
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28043
+#EXTINF:-1 tvg-id="rmc.sport.live.13.fr" tvg-name="FR267:RMC Sport 13" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR267RMCSport13.png" group-title="FR Sports",FR267:RMC Sport 13
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28042
+#EXTINF:-1 tvg-id="rmc.sport.live.14.fr" tvg-name="FR268:RMC Sport 14" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR268RMCSport14.png" group-title="FR Sports",FR268:RMC Sport 14
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28041
+#EXTINF:-1 tvg-id="rmc.sport.live.15.fr" tvg-name="FR280:RMC Sport 15" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR280RMCSPORT15.png" group-title="FR Sports",FR280:RMC Sport 15
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28029
+#EXTINF:-1 tvg-id="rmc.sport.live.16.fr" tvg-name="FR296:RMC Sport 16" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR296RMCSPORT16.png" group-title="FR Sports",FR296:RMC Sport 16
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28013
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="FR164:FOOT+ 24/24 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR164FOOT24.png" group-title="FR Sports",FR164:FOOT+ 24/24 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28145
+#EXTINF:-1 tvg-id="tv5.monde.style.fr" tvg-name="FR165:MySports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR165TV5Style.png" group-title="FR Sports",FR165:MySports
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28144
+#EXTINF:-1 tvg-id="multisports.2.fr" tvg-name="FR270:MULTISPORTS 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR270MULTISPORTS2HD.png" group-title="FR Sports",FR270:MULTISPORTS 1
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28039
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="FR285:MULTISPORTS 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR285TELEFOOTStadium5.jpg" group-title="FR Sports",FR285:MULTISPORTS 2
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28024
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="FR290:MULTISPORTS 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR290TELEFOOTStadium6.jpg" group-title="FR Sports",FR290:MULTISPORTS 3
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28019
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="FR291:MULTISPORTS 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR291TELEFOOTStadium7.jpg" group-title="FR Sports",FR291:MULTISPORTS 4
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28018
+#EXTINF:-1 tvg-id="multisports.1.fr" tvg-name="FR320:MULTISPORTS 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR320MULTISPORTS1HD.png" group-title="FR Sports",FR320:MULTISPORTS 5
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/27989
+#EXTINF:-1 tvg-id="multisports.3.fr" tvg-name="FR346:MULTISPORTS 6" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR346MULTISPORTS3HD.png" group-title="FR Sports",FR346:MULTISPORTS 6
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/27963
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="FR192:Amazon Prime 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR192TELEFOOTStadium1.jpg" group-title="FR Sports",FR192:Amazon Prime 1
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28117
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="FR194:Amazon Prime 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR194TELEFOOTStadium2.jpg" group-title="FR Sports",FR194:Amazon Prime 2
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28115
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR223:Amazon Prime 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR223TELEFOOTStadium3.jpg" group-title="FR Sports",FR223:Amazon Prime 3
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28086
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="FR281:Amazon Prime 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR281TELEFOOTStadium8.jpg" group-title="FR Sports",FR281:Amazon Prime 4
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28028
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="FR284:Amazon Prime 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR284TELEFOOTStadium4.jpg" group-title="FR Sports",FR284:Amazon Prime 5
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28025
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR347:Amazon Prime 6" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR347FashionL'Original.png" group-title="FR Sports",FR347:Amazon Prime 6
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/27962
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR341:Amazon Prime 7" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/" group-title="FR Sports",FR341:Amazon Prime 7
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/27968
+#EXTINF:-1 tvg-id="tiji.fr" tvg-name="FR343:Amazon Prime 8" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/" group-title="FR Sports",FR343:Amazon Prime 8
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/27966
+#EXTINF:-1 tvg-id="info.sport.fr" tvg-name="FR113:Amazon Prime 9" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR113INFOSPORT.png" group-title="FR Sports",FR113:Amazon Prime 9
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28196
+#EXTINF:-1 tvg-id="euronews.fr" tvg-name="FR094:Amazon Prime 10" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/" group-title="FR Sports",FR094:Amazon Prime 10
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28215
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NL:-----|SPORTS|--------------------------------------" tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL-----|SPORTS|--------------------------------------.png" group-title="NL Sports",NL:-----|SPORTS|--------------------------------------
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/61053
+#EXTINF:-1 tvg-id="ziggo.sport.select.nl" tvg-name="NL001:Ziggo Sport Select FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL001ZiggoSportSelectFHD1080.png" group-title="NL Sports",NL001:Ziggo Sport Select FHD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/31530
+#EXTINF:-1 tvg-id="ziggo.sport.select.nl" tvg-name="NL027:Ziggo Sport Select HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL027ZiggoSportSelectHD.png" group-title="NL Sports",NL027:Ziggo Sport Select HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/31504
+#EXTINF:-1 tvg-id="ziggo.sport.select.nl" tvg-name="NL174:Ziggo Sport Select SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL174Ziggo Select.png" group-title="NL Sports",NL174:Ziggo Sport Select SD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/31357
+#EXTINF:-1 tvg-id="ziggo.sport.nl" tvg-name="NL003:Ziggo Sport FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL003Sport1Voetbal.png" group-title="NL Sports",NL003:Ziggo Sport FHD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/31528
+#EXTINF:-1 tvg-id="espn.6.nl" tvg-name="NL008:Fox Sports 6 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL008FoxSports6.png" group-title="NL Sports",NL008:Fox Sports 6 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/31523
+#EXTINF:-1 tvg-id="espn.5.nl" tvg-name="NL009:Fox Sports 5 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL009FoxSports5.png" group-title="NL Sports",NL009:Fox Sports 5 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/31522
+#EXTINF:-1 tvg-id="espn.4.nl" tvg-name="NL010:Fox Sports 4 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL010FoxSports4.png" group-title="NL Sports",NL010:Fox Sports 4 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/31521
+#EXTINF:-1 tvg-id="espn.3.nl" tvg-name="NL011:Fox Sports 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL011FoxSports3.png" group-title="NL Sports",NL011:Fox Sports 3 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/31520
+#EXTINF:-1 tvg-id="espn.2.nl" tvg-name="NL012:Fox Sports 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL012FoxSports2.png" group-title="NL Sports",NL012:Fox Sports 2 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/31519
+#EXTINF:-1 tvg-id="eurosport.1.nl" tvg-name="NL014:Eurosport 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL014Eurosport1FHD1080.png" group-title="NL Sports",NL014:Eurosport 1 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/31517
+#EXTINF:-1 tvg-id="eurosport.2.nl" tvg-name="NL015:Eurosport 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL015Eurosport2HD.png" group-title="NL Sports",NL015:Eurosport 2 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/31516
+#EXTINF:-1 tvg-id="ziggo.sport.voetbal.nl" tvg-name="NL126:Ziggo Sport Voetbal HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL126ZiggoSportVoetbalHD.png" group-title="NL Sports",NL126:Ziggo Sport Voetbal HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/31405
+#EXTINF:-1 tvg-id="ziggo.sport.voetbal.nl" tvg-name="NL026:Ziggo Sport Voetbal SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL026ZiggoSport.Voetbal.png" group-title="NL Sports",NL026:Ziggo Sport Voetbal SD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/31505
+#EXTINF:-1 tvg-id="ziggo.sport.racing.nl" tvg-name="NL152:Ziggo Sport Racing FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL152ZiggoSportRacingHD.png" group-title="NL Sports",NL152:Ziggo Sport Racing FHD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/31379
+#EXTINF:-1 tvg-id="ziggo.sport.racing.nl" tvg-name="NL028:Ziggo Sport Racing HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL028ZiggoSportRacing.png" group-title="NL Sports",NL028:Ziggo Sport Racing HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/31503
+#EXTINF:-1 tvg-id="ziggo.sport.golf.nl" tvg-name="NL165:Ziggo Sport GOLF FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL165ZiggoSportGOLFHD.png" group-title="NL Sports",NL165:Ziggo Sport GOLF FHD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/31366
+#EXTINF:-1 tvg-id="ziggo.sport.golf.nl" tvg-name="NL029:Ziggo Sport Golf HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL029ZiggoSportGolf.png" group-title="NL Sports",NL029:Ziggo Sport Golf HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/31502
+#EXTINF:-1 tvg-id="ziggo.sport.extra.1.nl" tvg-name="NL031:Ziggo Sport Extra1 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL031ZiggoSportExtra1.png" group-title="NL Sports",NL031:Ziggo Sport Extra1 FHD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/31500
+#EXTINF:-1 tvg-id="ziggo.sport.extra.2.nl" tvg-name="NL030:Ziggo Sport Extra 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL030ZiggoSportExtra2.png" group-title="NL Sports",NL030:Ziggo Sport Extra 2 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/31501
+#EXTINF:-1 tvg-id="extreme.sports.nl" tvg-name="NL091:Extreme Sports Channel" tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL091ExtremeSportsChannel.png" group-title="NL Sports",NL091:Extreme Sports Channel
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/31440
+#EXTINF:-1 tvg-id="fox.sports.1.eredivisie.nl" tvg-name="NL100:FOX SPORTS 1 EREDIVISIE HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL100FOXSPORTS1EREDIVISIEHD.png" group-title="NL Sports",NL100:FOX SPORTS 1 EREDIVISIE HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/31431
+#EXTINF:-1 tvg-id="fox.sports.1.nl" tvg-name="NL101:FOX SPORTS 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL101FOXSPORTS1HD.png" group-title="NL Sports",NL101:FOX SPORTS 1 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/31430
+#EXTINF:-1 tvg-id="fox.sports.2.nl" tvg-name="NL102:FOX SPORTS 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL102FOXSPORTS2HD.png" group-title="NL Sports",NL102:FOX SPORTS 2 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/31429
+#EXTINF:-1 tvg-id="fox.sports.2.nl" tvg-name="NL103:FOX SPORTS 2 INTERNATIONAL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL103FOXSPORTS2INTERNATIONAL.png" group-title="NL Sports",NL103:FOX SPORTS 2 INTERNATIONAL
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/31428
+#EXTINF:-1 tvg-id="fox.sports.3.eredivisie.nl" tvg-name="NL104:FOX SPORTS 3 EREDIVISIE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL104FOXSPORTS3EREDIVISIE.png" group-title="NL Sports",NL104:FOX SPORTS 3 EREDIVISIE
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/31427
+#EXTINF:-1 tvg-id="fox.sports.3.nl" tvg-name="NL105:FOX SPORTS 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL105FOXSPORTS3HD.png" group-title="NL Sports",NL105:FOX SPORTS 3 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/31426
+#EXTINF:-1 tvg-id="espn.nl" tvg-name="NL106:ESPN 1 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL106ESPN1FHD.png" group-title="NL Sports",NL106:ESPN 1 FHD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/31425
+#EXTINF:-1 tvg-id="espn.2.nl" tvg-name="NL107:ESPN 2 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL107ESPN2FHD.png" group-title="NL Sports",NL107:ESPN 2 FHD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/31424
+#EXTINF:-1 tvg-id="espn.3.nl" tvg-name="NL108:ESPN 3 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL108ESPN3FHD.png" group-title="NL Sports",NL108:ESPN 3 FHD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/31423
+#EXTINF:-1 tvg-id="espn.4.nl" tvg-name="NL109:ESPN 4 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL109ESPN4HD.png" group-title="NL Sports",NL109:ESPN 4 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/31422
+#EXTINF:-1 tvg-id="espn.5.nl" tvg-name="NL110:ESPN 5 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL110ESPN5FHD.png" group-title="NL Sports",NL110:ESPN 5 FHD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/31421
+#EXTINF:-1 tvg-id="espn.6.nl" tvg-name="NL111:ESPN 6 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL111ESPN6HD.png" group-title="NL Sports",NL111:ESPN 6 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/31420
+#EXTINF:-1 tvg-id="gol.es" tvg-name="ES183:Movistar Liga de Campeones 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES183M2.png" group-title="ES Deportes",ES183:Movistar Liga de Campeones 2
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/52424
+#EXTINF:-1 tvg-id="laliga.es" tvg-name="ES184:Movistar Liga de Campeones 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES184M3.png" group-title="ES Deportes",ES184:Movistar Liga de Campeones 3
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/52423
+#EXTINF:-1 tvg-id="m..liga.campeones.4.es" tvg-name="ES185:Movistar Liga de Campeones 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES185M4.png" group-title="ES Deportes",ES185:Movistar Liga de Campeones 4
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/52422
+#EXTINF:-1 tvg-id="m..liga.campeones.5.es" tvg-name="ES186:Movistar Liga de Campeones 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES186M5.png" group-title="ES Deportes",ES186:Movistar Liga de Campeones 5
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/52421
+#EXTINF:-1 tvg-id="movistar.liga.campeones.es" tvg-name="ES187:Movistar Liga de Campeones 6" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES187Movistar Ligade Campeones.png" group-title="ES Deportes",ES187:Movistar Liga de Campeones 6
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/52420
+#EXTINF:-1 tvg-id="m..liga.campeones.7.es" tvg-name="ES188:Movistar Liga de Campeones 7" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES188MovistarLigadeCampeones 2.png" group-title="ES Deportes",ES188:Movistar Liga de Campeones 7
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/52419
+#EXTINF:-1 tvg-id="m..deportes.1.es" tvg-name="ES189:Movistar Liga de Campeones 8" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES189M8.png" group-title="ES Deportes",ES189:Movistar Liga de Campeones 8
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/52418
+#EXTINF:-1 tvg-id="m..liga.campeones.1.es" tvg-name="ES010:M Liga de Campeones HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES010MLigadeCam.png" group-title="ES Deportes",ES010:M Liga de Campeones HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/2594
+#EXTINF:-1 tvg-id="canal.futbol.replay.es" tvg-name="ES085:M.Liga de Campeones" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES085M LigadeCampeones.png" group-title="ES Deportes",ES085:M.Liga de Campeones
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29307
+#EXTINF:-1 tvg-id="m..liga.campeones.es" tvg-name="ES173:Movistar Liga de Campeones FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES173MLigadeCampeones4.png" group-title="ES Deportes",ES173:Movistar Liga de Campeones FHD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29219
+#EXTINF:-1 tvg-id="eurosport.1.es" tvg-name="ES040:EUROSPORT 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES040EuroSport1.png" group-title="ES Deportes",ES040:EUROSPORT 1 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/2564
+#EXTINF:-1 tvg-id="eurosport.2.es" tvg-name="ES041:EUROSPORT 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES041EuroSport2.png" group-title="ES Deportes",ES041:EUROSPORT 2 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/2563
+#EXTINF:-1 tvg-id="eurosport.1.es" tvg-name="ES274:EUROSPORT 1 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES274EUROSPORT1.png" group-title="ES Deportes",ES274:EUROSPORT 1 FHD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/52333
+#EXTINF:-1 tvg-id="eurosport.2.es" tvg-name="ES275:EUROSPORT 2 SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES275EUROSPORT2.png" group-title="ES Deportes",ES275:EUROSPORT 2 SD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/52332
+#EXTINF:-1 tvg-id="eurosport.es" tvg-name="ES250:EUROSPORT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES250EUROSPORT.png" group-title="ES Deportes",ES250:EUROSPORT
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/52357
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES089:La Liga BAR HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES089LaLigaBARHD.png" group-title="ES Deportes",ES089:La Liga BAR HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29303
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES135:MOVISTAR Deportes FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES135M. DEPORTES 3.png" group-title="ES Deportes",ES135:MOVISTAR Deportes FHD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29257
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES133:MOVISTAR Deportes 5 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES133M. DEPORTES 1.png" group-title="ES Deportes",ES133:MOVISTAR Deportes 5 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29259
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES087:MOVISTAR Deportes 4 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES087CanalDEPORTES2HD.png" group-title="ES Deportes",ES087:MOVISTAR Deportes 4 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29305
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES086:MOVISTAR Deportes 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES086CanalDEPORTESHD.png" group-title="ES Deportes",ES086:MOVISTAR Deportes 3 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29306
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES014:MOVISTAR Deportes 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES014MDeportes2.png" group-title="ES Deportes",ES014:MOVISTAR Deportes 2 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/2590
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES015:MOVISTAR Deportes 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES015MDeportes1.png" group-title="ES Deportes",ES015:MOVISTAR Deportes 1 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/2589
+#EXTINF:-1 tvg-id="vamos.es" tvg-name="ES134:#VolverEsGanar" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES134M. DEPORTES 2.png" group-title="ES Deportes",ES134:#VolverEsGanar
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29258
+#EXTINF:-1 tvg-id="m..liga.campeones.es" tvg-name="ES172:Dazn ES ( Match time only)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES172:DaznES.png" group-title="ES Deportes",ES172:Dazn ES ( Match time only)
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29220
+#EXTINF:-1 tvg-id="laliga.es" tvg-name="ES051:LaLiga TV Bar" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES051LaLigaTV.png" group-title="ES Deportes",ES051:LaLiga TV Bar
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/2553
+#EXTINF:-1 tvg-id="toros.es" tvg-name="ES020:Toros TV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES020Toros.png" group-title="ES Deportes",ES020:Toros TV HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/2584
+#EXTINF:-1 tvg-id="toros.es" tvg-name="ES231:Toros TV FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES231TorosTv.png" group-title="ES Deportes",ES231:Toros TV FHD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/52376
+#EXTINF:-1 tvg-id="moto.gp.es" tvg-name="ES027:Movistar MotoGP" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES027MMotoGP.png" group-title="ES Deportes",ES027:Movistar MotoGP
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/2577
+#EXTINF:-1 tvg-id="vamos.es" tvg-name="ES079:Vamos HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES079Vamos.png" group-title="ES Deportes",ES079:Vamos HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29313
+#EXTINF:-1 tvg-id="vamos.es" tvg-name="ES132:Vamos FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES132VamosFHD.png" group-title="ES Deportes",ES132:Vamos FHD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29260
+#EXTINF:-1 tvg-id="m..laliga.es" tvg-name="ES121:MOVISTAR LaLiga HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES121MOVISTAR LaLiga.png" group-title="ES Deportes",ES121:MOVISTAR LaLiga HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29271
+#EXTINF:-1 tvg-id="canal+.liga.es" tvg-name="ES084:M. LaLiga FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES084MLaLIGA.png" group-title="ES Deportes",ES084:M. LaLiga FHD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29308
+#EXTINF:-1 tvg-id="m..laliga.es" tvg-name="ES092:M. LaLiga HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES092MOVISTARLiga.png" group-title="ES Deportes",ES092:M. LaLiga HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29300
+#EXTINF:-1 tvg-id="m..laliga.1.es" tvg-name="ES136:M. LaLiga 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES136MLaLiga1.png" group-title="ES Deportes",ES136:M. LaLiga 1
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29256
+#EXTINF:-1 tvg-id="m..laliga.2.es" tvg-name="ES137:M. LaLiga 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES137MLaLiga2.png" group-title="ES Deportes",ES137:M. LaLiga 2
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29255
+#EXTINF:-1 tvg-id="m..laliga.3.es" tvg-name="ES138:M. LaLiga 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES138MLaLiga3.png" group-title="ES Deportes",ES138:M. LaLiga 3
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29254
+#EXTINF:-1 tvg-id="m..laliga.4.es" tvg-name="ES095:M. LaLiga 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES095MOVISTAR LaLiga.png" group-title="ES Deportes",ES095:M. LaLiga 4
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29297
+#EXTINF:-1 tvg-id="m..laliga.5.es" tvg-name="ES096:M. LaLiga 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES096MOVISTAR Laliga.png" group-title="ES Deportes",ES096:M. LaLiga 5
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29296
+#EXTINF:-1 tvg-id="m..laliga.6.es" tvg-name="ES123:M. Laliga 6" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES123MLaliga6.png" group-title="ES Deportes",ES123:M. Laliga 6
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29269
+#EXTINF:-1 tvg-id="laliga.123.es" tvg-name="ES125:M. Laliga 7" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES125MLaliga7.png" group-title="ES Deportes",ES125:M. Laliga 7
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29267
+#EXTINF:-1 tvg-id="real.madrid.es" tvg-name="ES131:M. Laliga 8" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES131MLaliga8.png" group-title="ES Deportes",ES131:M. Laliga 8
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29261
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES144:Willow Cricket" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES144WillowCricke.png" group-title="ES Deportes",ES144:Willow Cricket
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29248
+#EXTINF:-1 tvg-id="laliga.123.es" tvg-name="ES156:LaLiga 123 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES156LaLiga123HD.png" group-title="ES Deportes",ES156:LaLiga 123 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29236
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES164:SKYNET SPORTS 6" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES164SKYNETSPORTS2.png" group-title="ES Deportes",ES164:SKYNET SPORTS 6
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29228
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES165:SKYNET SPORTS 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES165SKYNETSPORTS1.png" group-title="ES Deportes",ES165:SKYNET SPORTS 1
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29227
+#EXTINF:-1 tvg-id="+.globosat.br" tvg-name="ES166:DAZN MOTO GP" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES166DAZNMOTOGP.png" group-title="ES Deportes",ES166:DAZN MOTO GP
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29226
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES193:Movistar Futbol FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES193M FUTBOL.png" group-title="ES Deportes",ES193:Movistar Futbol FHD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/52414
+#EXTINF:-1 tvg-id="canal.parlamento.es" tvg-name="ES207:ESPN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES207ESPN.png" group-title="ES Deportes",ES207:ESPN
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/52400
+#EXTINF:-1 tvg-id="movistar.el.partidazo.es" tvg-name="ES241:Movistar Partidazo HD (event only)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES241MovistarPartidazoHD(eventonly).png" group-title="ES Deportes",ES241:Movistar Partidazo HD (event only)
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/52366
+#EXTINF:-1 tvg-id="movistar.deportes.2.es" tvg-name="ES251:MOVISTAR Deportes 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES251CanalDeportes.png" group-title="ES Deportes",ES251:MOVISTAR Deportes 2
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/52356
+#EXTINF:-1 tvg-id="bein.sports.es" tvg-name="ES257:BeinSport HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES257BeinSportHD.png" group-title="ES Deportes",ES257:BeinSport HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/52350
+#EXTINF:-1 tvg-id="movistar.formula.1.es" tvg-name="ES262:CANAL Formula One" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES262CANALFormulaOne.png" group-title="ES Deportes",ES262:CANAL Formula One
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/52345
+#EXTINF:-1 tvg-id="40.graus.br" tvg-name="ES122:DAZN 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES122MOVISTAR LaLiga.png" group-title="ES Deportes",ES122:DAZN 1
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29270
+#EXTINF:-1 tvg-id="movistar.laliga.es" tvg-name="ES258:DAZN 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES258DAZN2.png" group-title="ES Deportes",ES258:DAZN 2
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/52349
+#EXTINF:-1 tvg-id="40.graus.br" tvg-name="ES174:DAZN 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES174M.LIGADECAMPEONES6.png" group-title="ES Deportes",ES174:DAZN 3
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29218
+#EXTINF:-1 tvg-id="toros.es" tvg-name="ES266:CANAL Toros TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES266CANALTorosTV.png" group-title="ES Deportes",ES266:CANAL Toros TV
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/52341
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE:-----|SPORT|---------------------" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE-----|SPORT|---------------------.png" group-title="DE Sports",DE:-----|SPORT|---------------------
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/60652
+#EXTINF:-1 tvg-id="eurosport1.de" tvg-name="DE018:Euro Sport 1 DE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE018EuroSport1DE.png" group-title="DE Sports",DE018:Euro Sport 1 DE
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/2665
+#EXTINF:-1 tvg-id="eurosport.2.de" tvg-name="DE019:Euro Sport 2 DE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE019EuroSport2DE.png" group-title="DE Sports",DE019:Euro Sport 2 DE
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/2664
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE026:Fitness" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE026MGM.png" group-title="DE Sports",DE026:Fitness
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/2657
+#EXTINF:-1 tvg-id="sky.sport.bundesliga.1.de" tvg-name="DE051:Sky Bundesliga 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE051SkyBundesliga1.png" group-title="DE Sports",DE051:Sky Bundesliga 1
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/2632
+#EXTINF:-1 tvg-id="sport1.de" tvg-name="DE069:Sport 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE069Sport1.png" group-title="DE Sports",DE069:Sport 1
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/2614
+#EXTINF:-1 tvg-id="sportdigital.de" tvg-name="DE070:Sport Digital" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE070SportDigital.png" group-title="DE Sports",DE070:Sport Digital
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/2613
+#EXTINF:-1 tvg-id="sky.sport.austria.de" tvg-name="DE066:Sky Sport Austria" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE066SkySportAustria.png" group-title="DE Sports",DE066:Sky Sport Austria
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/2617
+#EXTINF:-1 tvg-id="sky.sport.1.de" tvg-name="DE064:Sky Sport 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE064SkySport1.png" group-title="DE Sports",DE064:Sky Sport 1
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/2619
+#EXTINF:-1 tvg-id="sky.sport.2.de" tvg-name="DE065:Sky Sport 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE065SkySport2.png" group-title="DE Sports",DE065:Sky Sport 2
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/2618
+#EXTINF:-1 tvg-id="sky.sport.3.de" tvg-name="DE085:Sky Sport 3 HD ( During Games only )" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE085SkySport3HD(DuringGamesonly).png" group-title="DE Sports",DE085:Sky Sport 3 HD ( During Games only )
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29199
+#EXTINF:-1 tvg-id="sky.sport.4.de" tvg-name="DE084:Sky Sport 4 HD ( During Games only )" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE084SkySport4HD(DuringGamesonly).png" group-title="DE Sports",DE084:Sky Sport 4 HD ( During Games only )
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29200
+#EXTINF:-1 tvg-id="sky.sport.5.de" tvg-name="DE083:Sky Sport 5 HD  ( During Games only )" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE083SkySport5HD(DuringGamesonly).png" group-title="DE Sports",DE083:Sky Sport 5 HD  ( During Games only )
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29201
+#EXTINF:-1 tvg-id="sky.sport.6.de" tvg-name="DE082:Sky Sport 6 HD ( During Games only )" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE082SkySport6HD(DuringGamesonly).png" group-title="DE Sports",DE082:Sky Sport 6 HD ( During Games only )
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29202
+#EXTINF:-1 tvg-id="sky.sport.8.de" tvg-name="DE081:Sky Sport 7 HD ( During Games only )" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE081SkySport7HD(DuringGamesonly).png" group-title="DE Sports",DE081:Sky Sport 7 HD ( During Games only )
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29203
+#EXTINF:-1 tvg-id="sky.sport.8.de" tvg-name="DE080:Sky Sport 8 HD ( During Games only )" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE080SkySport8HD(DuringGamesonly).png" group-title="DE Sports",DE080:Sky Sport 8 HD ( During Games only )
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29204
+#EXTINF:-1 tvg-id="sky.sport.9.de" tvg-name="DE079:Sky Sport 9 HD ( During Games only )" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE079SkySport9HD(DuringGamesonly).png" group-title="DE Sports",DE079:Sky Sport 9 HD ( During Games only )
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29205
+#EXTINF:-1 tvg-id="sky.sport.10.de" tvg-name="DE087:Sky Sport 10 HD ( During Games only )" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE087SkySport10HD(DuringGamesonly).png" group-title="DE Sports",DE087:Sky Sport 10 HD ( During Games only )
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29197
+#EXTINF:-1 tvg-id="sky.sport.11.de" tvg-name="DE086:Sky Sport 11 HD ( During Games only )" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE086SkySport11HD(DuringGamesonly).png" group-title="DE Sports",DE086:Sky Sport 11 HD ( During Games only )
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29198
+#EXTINF:-1 tvg-id="sky.sport.1.de" tvg-name="DE112:SPORT 1+" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE112Sport1HD.png" group-title="DE Sports",DE112:SPORT 1+
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29172
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE126:Sky Sport Austria 4 FHD (ONLY ON MATCHDAY)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE126SPORT1HD(1080P).png" group-title="DE Sports",DE126:Sky Sport Austria 4 FHD (ONLY ON MATCHDAY)
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29158
+#EXTINF:-1 tvg-id="motorvision.de" tvg-name="DE132:Motorvision TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE132MotorvisionTV.png" group-title="DE Sports",DE132:Motorvision TV
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29152
+#EXTINF:-1 tvg-id="eurosport.1.de" tvg-name="DE135:Glory Kickboxing" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/" group-title="DE Sports",DE135:Glory Kickboxing
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29149
+#EXTINF:-1 tvg-id="sky.sport.3.de" tvg-name="DE136:Telekom Bundesliga 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE136SkyGermanySport3HD.png" group-title="DE Sports",DE136:Telekom Bundesliga 1 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29148
+#EXTINF:-1 tvg-id="sky.sport.9.de" tvg-name="DE137:Telekom Bundesliga 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE137SkyGermanySport9HD.png" group-title="DE Sports",DE137:Telekom Bundesliga 2 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29147
+#EXTINF:-1 tvg-id="sky.sport.8.de" tvg-name="DE138:Telekom Bundesliga 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE138SkyGermanySport8HD.png" group-title="DE Sports",DE138:Telekom Bundesliga 3 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29146
+#EXTINF:-1 tvg-id="sky.sport.7.de" tvg-name="DE139:Telekom Bundesliga 4 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE139SkyGermanySport7HD.png" group-title="DE Sports",DE139:Telekom Bundesliga 4 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29145
+#EXTINF:-1 tvg-id="sky.sport.6.de" tvg-name="DE140:Telekom Bundesliga 5 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE140SkyGermanySport6HD.png" group-title="DE Sports",DE140:Telekom Bundesliga 5 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29144
+#EXTINF:-1 tvg-id="sky.sport.5.de" tvg-name="DE141:Telekom Bundesliga 6 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE141SkyGermanySport5HD.png" group-title="DE Sports",DE141:Telekom Bundesliga 6 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29143
+#EXTINF:-1 tvg-id="sky.sport.4.de" tvg-name="DE142:Telekom Bundesliga 7 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE142SkyGermanySport4HD.png" group-title="DE Sports",DE142:Telekom Bundesliga 7 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29142
+#EXTINF:-1 tvg-id="sky.sport.11.de" tvg-name="DE143:Telekom Basketball 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE143SkyGermanySport11HD.png" group-title="DE Sports",DE143:Telekom Basketball 1
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29141
+#EXTINF:-1 tvg-id="sky.sport.10.de" tvg-name="DE144:Telekom Basketball 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE144SkyGermanySport10HD.png" group-title="DE Sports",DE144:Telekom Basketball 2
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29140
+#EXTINF:-1 tvg-id="auto.motor.sport.de" tvg-name="DE146:Auto Motor Sport HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE146AutoMotorSportHD.png" group-title="DE Sports",DE146:Auto Motor Sport HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29137
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE149:FC Bayern TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE149BAYERNFCTV.png" group-title="DE Sports",DE149:FC Bayern TV
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29134
+#EXTINF:-1 tvg-id="orf.sport+.de" tvg-name="DE150:ORF SPORT+" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE150BLKTV.png" group-title="DE Sports",DE150:ORF SPORT+
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29133
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE161:DAZN BAR 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE161DAZNBAR1HD.png" group-title="DE Sports",DE161:DAZN BAR 1 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29122
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE162:DAZN BAR 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE162DAZNBAR2HD.png" group-title="DE Sports",DE162:DAZN BAR 2 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29121
+#EXTINF:-1 tvg-id="eurosport.2.hd.xtra.de" tvg-name="DE171:Eurosport 2 Xtra" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE171Eurosport2Xtra.png" group-title="DE Sports",DE171:Eurosport 2 Xtra
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29111
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE183:Telekom Basketball 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE183TelekomSport2.png" group-title="DE Sports",DE183:Telekom Basketball 3
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29099
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE204:Telekom Basketball 4 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE204TelekomBasketball4FHD.png" group-title="DE Sports",DE204:Telekom Basketball 4 FHD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29078
+#EXTINF:-1 tvg-id="one.de" tvg-name="DE205:Telekom Basketball 5 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE205TelekomBasketball5FHD.png" group-title="DE Sports",DE205:Telekom Basketball 5 FHD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29077
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE228:Telekom Fussball 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE228TelekomFussball1HD.png" group-title="DE Sports",DE228:Telekom Fussball 1 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29054
+#EXTINF:-1 tvg-id="dazn.de" tvg-name="DE230:DAZN 2 Bar" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE230DAZN2Bar.png" group-title="DE Sports",DE230:DAZN 2 Bar
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29052
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE231:Telekom Fussball 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE231TelekomFussball2HD.png" group-title="DE Sports",DE231:Telekom Fussball 2 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29051
+#EXTINF:-1 tvg-id="sky.sport.f1.de" tvg-name="DE234:Sky Sports F1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE234SkyEUROSPORT1HD.png" group-title="DE Sports",DE234:Sky Sports F1 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29048
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE236:Telekom Fussball 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE236TelekomFussball3HD.png" group-title="DE Sports",DE236:Telekom Fussball 3 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29046
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE237:Telekom Fussball 4 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE237TelekomFussball4HD.png" group-title="DE Sports",DE237:Telekom Fussball 4 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29045
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE239:Telekom Fussball 5 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE239TelekomFussball5HD.png" group-title="DE Sports",DE239:Telekom Fussball 5 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29043
+#EXTINF:-1 tvg-id="sky.sport.3.de" tvg-name="DE261:Sky Sport 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE261SkySport3HD.png" group-title="DE Sports",DE261:Sky Sport 3 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29021
+#EXTINF:-1 tvg-id="sky.sport.3.de" tvg-name="DE262:Sky Sport 4 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE262SkySport4HD.png" group-title="DE Sports",DE262:Sky Sport 4 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29020
+#EXTINF:-1 tvg-id="sky.sport.5.de" tvg-name="DE263:Sky Sport 5 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE263SkySport5HD.png" group-title="DE Sports",DE263:Sky Sport 5 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29019
+#EXTINF:-1 tvg-id="sky.sport.6.de" tvg-name="DE264:Sky Sport 6 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE264SkySport6HD.png" group-title="DE Sports",DE264:Sky Sport 6 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29018
+#EXTINF:-1 tvg-id="sky.sport.7.de" tvg-name="DE265:Sky Sport 7 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE265SkySport7HD.png" group-title="DE Sports",DE265:Sky Sport 7 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29017
+#EXTINF:-1 tvg-id="sky.sport.8.de" tvg-name="DE266:Sky Sport 8 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE266SkySport8HD.png" group-title="DE Sports",DE266:Sky Sport 8 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29016
+#EXTINF:-1 tvg-id="sky.sport.9.de" tvg-name="DE267:Sky Sport 9 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE267SkySport9HD.png" group-title="DE Sports",DE267:Sky Sport 9 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29015
+#EXTINF:-1 tvg-id="sky.sport.10.de" tvg-name="DE268:Sky Sport 10 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE268SkySport10HD.png" group-title="DE Sports",DE268:Sky Sport 10 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29014
+#EXTINF:-1 tvg-id="sky.sport.bundesliga.1.de" tvg-name="DE269:Sky Sport Bundesliga 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE269SkySportBundesliga1HD.png" group-title="DE Sports",DE269:Sky Sport Bundesliga 1 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29013
+#EXTINF:-1 tvg-id="sky.sport.bundesliga.2.de" tvg-name="DE270:Sky Sport Bundesliga 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE270SkySportBundesliga2HD.png" group-title="DE Sports",DE270:Sky Sport Bundesliga 2 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29012
+#EXTINF:-1 tvg-id="sky.sport.bundesliga.3.de" tvg-name="DE271:Sky Sport Bundesliga 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE271SkySportBundesliga3HD.png" group-title="DE Sports",DE271:Sky Sport Bundesliga 3 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29011
+#EXTINF:-1 tvg-id="sky.sport.bundesliga.4.de" tvg-name="DE272:Sky Sport Bundesliga 4 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE272SkySportBundesliga4HD.png" group-title="DE Sports",DE272:Sky Sport Bundesliga 4 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29010
+#EXTINF:-1 tvg-id="sky.sport.bundesliga.5.de" tvg-name="DE273:Sky Sport Bundesliga 5 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE273SkySportBundesliga5HD.png" group-title="DE Sports",DE273:Sky Sport Bundesliga 5 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29009
+#EXTINF:-1 tvg-id="sky.sport.bundesliga.6.de" tvg-name="DE274:Sky Sport Bundesliga 6 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE274SkySportBundesliga6HD.png" group-title="DE Sports",DE274:Sky Sport Bundesliga 6 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29008
+#EXTINF:-1 tvg-id="sky.sport.bundesliga.7.de" tvg-name="DE275:Sky Sport Bundesliga 7 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE275SkySportBundesliga7HD.png" group-title="DE Sports",DE275:Sky Sport Bundesliga 7 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29007
+#EXTINF:-1 tvg-id="sky.sport.bundesliga.8.de" tvg-name="DE276:Sky Sport Bundesliga 8 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE276SkySportBundesliga8HD.png" group-title="DE Sports",DE276:Sky Sport Bundesliga 8 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29006
+#EXTINF:-1 tvg-id="sky.sport.bundesliga.9.de" tvg-name="DE277:Sky Sport Bundesliga 9 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE277SkySportBundesliga9HD.png" group-title="DE Sports",DE277:Sky Sport Bundesliga 9 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29005
+#EXTINF:-1 tvg-id="sky.sport.bundesliga.10.de" tvg-name="DE278:Sky Sport Bundesliga 10 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE278SkySportBundesliga10HD.png" group-title="DE Sports",DE278:Sky Sport Bundesliga 10 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29004
+#EXTINF:-1 tvg-id="sky.sport.1.de" tvg-name="DE279:Sky Sport Austria SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE279SkySportHD(AU).png" group-title="DE Sports",DE279:Sky Sport Austria SD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29003
+#EXTINF:-1 tvg-id="sky.sport.austria.de" tvg-name="DE289:Sky Sport Austria FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE289SkySportAustriaHD.png" group-title="DE Sports",DE289:Sky Sport Austria FHD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28993
+#EXTINF:-1 tvg-id="dazn.de" tvg-name="DE290:DAZN 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE290DAZN1.png" group-title="DE Sports",DE290:DAZN 1
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28992
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IT:-----|SPORT|----------------------------------------" tvg-logo="" group-title="IT Sports",IT:-----|SPORT|----------------------------------------
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/60637
+#EXTINF:-1 tvg-id="eurosport.it" tvg-name="IT015:Euro Sport 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT015EuroSport1IT.png" group-title="IT Sports",IT015:Euro Sport 1 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/2757
+#EXTINF:-1 tvg-id="eurosport.2.it" tvg-name="IT016:Euro Sport 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT016EuroSport2IT.png" group-title="IT Sports",IT016:Euro Sport 2 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/2756
+#EXTINF:-1 tvg-id="dazn1.it" tvg-name="IT029:Dazn1 Sat" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT029TV8HD.png" group-title="IT Sports",IT029:Dazn1 Sat
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/2743
+#EXTINF:-1 tvg-id="rai.sport.plus.it" tvg-name="IT036:Rai Sport+" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT036PremiumCinema224.png" group-title="IT Sports",IT036:Rai Sport+
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/2736
+#EXTINF:-1 tvg-id="sky.sport.motogp.it" tvg-name="IT074:RTV Sport" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT074SkyMotoGP.png" group-title="IT Sports",IT074:RTV Sport
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/2698
+#EXTINF:-1 tvg-id="sky.sport24.it" tvg-name="IT076:Sky Sport 24" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT076SkySport24.png" group-title="IT Sports",IT076:Sky Sport 24
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/2696
+#EXTINF:-1 tvg-id="sky.sport.f1.it" tvg-name="IT077:SKY SPORT F1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT077SkySportF1.png" group-title="IT Sports",IT077:SKY SPORT F1 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/2695
+#EXTINF:-1 tvg-id="sky.sport.1.it" tvg-name="IT078:Sky Sport 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT078SkySport1.png" group-title="IT Sports",IT078:Sky Sport 1 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/2694
+#EXTINF:-1 tvg-id="sky.sport.2.it" tvg-name="IT079:Sky Sport 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT079SkySport2.png" group-title="IT Sports",IT079:Sky Sport 2 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/2693
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="IT080:MS Motor TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT080SkySport3.png" group-title="IT Sports",IT080:MS Motor TV
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/2692
+#EXTINF:-1 tvg-id="unire.sat.it" tvg-name="IT081:Unire Sat" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT081SkyTG24.png" group-title="IT Sports",IT081:Unire Sat
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/2691
+#EXTINF:-1 tvg-id="+.globosat.br" tvg-name="IT083:SportItalia Motori HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT083SportItalia.png" group-title="IT Sports",IT083:SportItalia Motori HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/2689
+#EXTINF:-1 tvg-id="supertennis.it" tvg-name="IT084:Super Tennis HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT084SuperTennis.png" group-title="IT Sports",IT084:Super Tennis HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/2688
+#EXTINF:-1 tvg-id="dazn1.it" tvg-name="IT089:Dazn1 Sat | UHD" tvg-logo="" group-title="IT Sports",IT089:Dazn1 Sat | UHD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28473
+#EXTINF:-1 tvg-id="dazn1.it" tvg-name="IT090:Dazn1 Sat | HD" tvg-logo="" group-title="IT Sports",IT090:Dazn1 Sat | HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28472
+#EXTINF:-1 tvg-id="dazn1.it" tvg-name="IT091:Dazn1 Sat | SD" tvg-logo="" group-title="IT Sports",IT091:Dazn1 Sat | SD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28471
+#EXTINF:-1 tvg-id="sky.sport.serie.a.it" tvg-name="IT092:Sky Sport Serie A | UHD" tvg-logo="" group-title="IT Sports",IT092:Sky Sport Serie A | UHD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28470
+#EXTINF:-1 tvg-id="sky.sport.serie.a.it" tvg-name="IT093:Sky Sport Serie A | HD" tvg-logo="" group-title="IT Sports",IT093:Sky Sport Serie A | HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28469
+#EXTINF:-1 tvg-id="sky.sport.serie.a.it" tvg-name="IT094:Sky Sport Serie A | SD" tvg-logo="" group-title="IT Sports",IT094:Sky Sport Serie A | SD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28468
+#EXTINF:-1 tvg-id="sky.sport.motogp.it" tvg-name="IT095:Sky Sport MotoGP | UHD" tvg-logo="" group-title="IT Sports",IT095:Sky Sport MotoGP | UHD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28467
+#EXTINF:-1 tvg-id="sky.sport.motogp.it" tvg-name="IT096:Sky Sport MotoGP | HD" tvg-logo="" group-title="IT Sports",IT096:Sky Sport MotoGP | HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28466
+#EXTINF:-1 tvg-id="sky.sport.motogp.it" tvg-name="IT097:Sky Sport MotoGP | SD" tvg-logo="" group-title="IT Sports",IT097:Sky Sport MotoGP | SD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28465
+#EXTINF:-1 tvg-id="+.globosat.br" tvg-name="IT105:Sky Sport NBA HD" tvg-logo="" group-title="IT Sports",IT105:Sky Sport NBA HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28457
+#EXTINF:-1 tvg-id="eurosport.it" tvg-name="IT107:EUROSPORT 1 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT107EURSPORT1FHD.png" group-title="IT Sports",IT107:EUROSPORT 1 FHD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28455
+#EXTINF:-1 tvg-id="supertennis.it" tvg-name="IT114:Sky Sport Collection HD" tvg-logo="" group-title="IT Sports",IT114:Sky Sport Collection HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28448
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IT115:Sky Sport 251" tvg-logo="" group-title="IT Sports",IT115:Sky Sport 251
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28447
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IT116:Sky Sport 252" tvg-logo="" group-title="IT Sports",IT116:Sky Sport 252
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28446
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IT117:Sky Sport 253" tvg-logo="" group-title="IT Sports",IT117:Sky Sport 253
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28445
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IT118:Sky Sport 254" tvg-logo="" group-title="IT Sports",IT118:Sky Sport 254
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28444
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IT119:Sky Sport 255" tvg-logo="" group-title="IT Sports",IT119:Sky Sport 255
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28443
+#EXTINF:-1 tvg-id="dazn1.it" tvg-name="IT147:DAZN 1 HD" tvg-logo="" group-title="IT Sports",IT147:DAZN 1 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28415
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IT148:DAZN 2 HD" tvg-logo="" group-title="IT Sports",IT148:DAZN 2 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28414
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IT149:DAZN 3 HD" tvg-logo="" group-title="IT Sports",IT149:DAZN 3 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28413
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IT150:DAZN 4 HD" tvg-logo="" group-title="IT Sports",IT150:DAZN 4 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28412
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IT151:DAZN 5 HD" tvg-logo="" group-title="IT Sports",IT151:DAZN 5 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28411
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IT152:DAZN 6 HD" tvg-logo="" group-title="IT Sports",IT152:DAZN 6 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28410
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IT153:DAZN 7 HD" tvg-logo="" group-title="IT Sports",IT153:DAZN 7 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28409
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IT154:DAZN 8 HD" tvg-logo="" group-title="IT Sports",IT154:DAZN 8 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28408
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IT155:DAZN 9 HD" tvg-logo="" group-title="IT Sports",IT155:DAZN 9 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28407
+#EXTINF:-1 tvg-id="sky.sport.uno.it" tvg-name="IT230:Sky Sport Uno FHD" tvg-logo="" group-title="IT Sports",IT230:Sky Sport Uno FHD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28332
+#EXTINF:-1 tvg-id="sky.sport.nba.it" tvg-name="IT253:Rai Sport 3 (attivi solo ad evento in corso)" tvg-logo="" group-title="IT Sports",IT253:Rai Sport 3 (attivi solo ad evento in corso)
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28309
+#EXTINF:-1 tvg-id="rai.sport.2.it" tvg-name="IT254:Rai Sport 2 (attivi solo ad evento in corso)" tvg-logo="" group-title="IT Sports",IT254:Rai Sport 2 (attivi solo ad evento in corso)
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28308
+#EXTINF:-1 tvg-id="sky.sport.football.it" tvg-name="IT255:Sky Sport Football HD" tvg-logo="" group-title="IT Sports",IT255:Sky Sport Football HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28307
+#EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-name="IT256:Sky Sport Arena FHD" tvg-logo="" group-title="IT Sports",IT256:Sky Sport Arena FHD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28306
+#EXTINF:-1 tvg-id="rai.sport.plus.it" tvg-name="IT265:Rai Sport + FHD" tvg-logo="" group-title="IT Sports",IT265:Rai Sport + FHD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28297
+#EXTINF:-1 tvg-id="roma.it" tvg-name="IT269:Rai Sport" tvg-logo="" group-title="IT Sports",IT269:Rai Sport
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28293
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="IT277:Supercalcio HD" tvg-logo="" group-title="IT Sports",IT277:Supercalcio HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28285
+#EXTINF:-1 tvg-id="sky.calcio.6.it" tvg-name="IT278:Sky Calcio 1" tvg-logo="" group-title="IT Sports",IT278:Sky Calcio 1
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28284
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="IT280:Sky Calcio 2" tvg-logo="" group-title="IT Sports",IT280:Sky Calcio 2
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28282
+#EXTINF:-1 tvg-id="sky.sport.f1.it" tvg-name="IT298:SKY SPORT F1 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT298SkyF1FHD.png" group-title="IT Sports",IT298:SKY SPORT F1 FHD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/28264
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT:-----|SPORTS|--------------------------------------" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT-----|SPORTS|--------------------------------------.png" group-title="PT Sports",PT:-----|SPORTS|--------------------------------------
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/60650
+#EXTINF:-1 tvg-id="a.bola.pt" tvg-name="PT002:A Bola TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT002ABolaTV.png" group-title="PT Sports",PT002:A Bola TV
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/3248
+#EXTINF:-1 tvg-id="btv1.pt" tvg-name="PT011:Benfica TV 1 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT011BenficaTV1FHD.png" group-title="PT Sports",PT011:Benfica TV 1 FHD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/3239
+#EXTINF:-1 tvg-id="btv1.pt" tvg-name="PT012:Benfica TV 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT012BenficaTV1HD.png" group-title="PT Sports",PT012:Benfica TV 1 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/3238
+#EXTINF:-1 tvg-id="btv.pt" tvg-name="PT013:Benfica TV 1 SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT013BenficaTV1SD.png" group-title="PT Sports",PT013:Benfica TV 1 SD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/3237
+#EXTINF:-1 tvg-id="eurosport.1.pt" tvg-name="PT025:Euro Sport 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT025EuroSport1.png" group-title="PT Sports",PT025:Euro Sport 1
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/3225
+#EXTINF:-1 tvg-id="eurosport.2.pt" tvg-name="PT026:Euro Sport 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT026EuroSport2.png" group-title="PT Sports",PT026:Euro Sport 2
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/3224
+#EXTINF:-1 tvg-id="motors.es" tvg-name="PT040:Motors TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT040MotorsTV.png" group-title="PT Sports",PT040:Motors TV
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/3210
+#EXTINF:-1 tvg-id="motorvision.pt" tvg-name="PT041:Motor Vision" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT041MotorVision.png" group-title="PT Sports",PT041:Motor Vision
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/3209
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="PT144:MEO Destaques" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT144PFC INTERNACIONAL.png" group-title="PT Sports",PT144:MEO Destaques
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29346
+#EXTINF:-1 tvg-id="pfc.pt" tvg-name="PT049:PFC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT049PFC.png" group-title="PT Sports",PT049:PFC
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/3201
+#EXTINF:-1 tvg-id="sport.tv1.pt" tvg-name="PT058:Sport TV 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT058SportTV1.png" group-title="PT Sports",PT058:Sport TV 1 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/3192
+#EXTINF:-1 tvg-id="sport.tv2.pt" tvg-name="PT059:Sport TV 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT059SportTV2.png" group-title="PT Sports",PT059:Sport TV 2 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/3191
+#EXTINF:-1 tvg-id="sport.tv3.pt" tvg-name="PT060:Sport TV 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT060SportTV3.png" group-title="PT Sports",PT060:Sport TV 3 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/3190
+#EXTINF:-1 tvg-id="sport.tv4.pt" tvg-name="PT061:Sport TV 4 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT061SportTV4.png" group-title="PT Sports",PT061:Sport TV 4 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/3189
+#EXTINF:-1 tvg-id="sport.tv5.pt" tvg-name="PT062:Sport TV 5 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT062SportTV5.png" group-title="PT Sports",PT062:Sport TV 5 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/3188
+#EXTINF:-1 tvg-id="sport.plus.pt" tvg-name="PT063:SPORT TV+" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT063SportTV.png" group-title="PT Sports",PT063:SPORT TV+
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/3187
+#EXTINF:-1 tvg-id="sporting.pt" tvg-name="PT064:Sporting TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT064SportingTV.png" group-title="PT Sports",PT064:Sporting TV
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/3186
+#EXTINF:-1 tvg-id="toros.pt" tvg-name="PT067:Toros TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT067TorosTV.png" group-title="PT Sports",PT067:Toros TV
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/3183
+#EXTINF:-1 tvg-id="eurosport.1.pt" tvg-name="PT093:EUROSPORT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT093EUROSPORT.png" group-title="PT Sports",PT093:EUROSPORT
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29397
+#EXTINF:-1 tvg-id="sport.tv1.pt" tvg-name="PT098:SPORT TV 1 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT098SPORTTV1FHD.png" group-title="PT Sports",PT098:SPORT TV 1 FHD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29392
+#EXTINF:-1 tvg-id="sport.tv2.pt" tvg-name="PT099:SPORT TV 2 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT099SPORTTV2FHD.png" group-title="PT Sports",PT099:SPORT TV 2 FHD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29391
+#EXTINF:-1 tvg-id="sport.tv3.pt" tvg-name="PT100:SPORT TV 3 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT100SPORTTV3FHD.png" group-title="PT Sports",PT100:SPORT TV 3 FHD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29390
+#EXTINF:-1 tvg-id="sport.tv4.pt" tvg-name="PT101:SPORT TV 4 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT101SPORTTV4FHD.png" group-title="PT Sports",PT101:SPORT TV 4 FHD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29389
+#EXTINF:-1 tvg-id="sport.tv5.pt" tvg-name="PT158:SPORT TV 5 FHD" tvg-logo="" group-title="PT Sports",PT158:SPORT TV 5 FHD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/49958
+#EXTINF:-1 tvg-id="sport.tv1.pt" tvg-name="PT102:SPORT TV 1 SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT102SPORTTV1SD.png" group-title="PT Sports",PT102:SPORT TV 1 SD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29388
+#EXTINF:-1 tvg-id="sport.tv2.pt" tvg-name="PT103:SPORT TV 2 SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT103SPORTTV2SD.png" group-title="PT Sports",PT103:SPORT TV 2 SD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29387
+#EXTINF:-1 tvg-id="sport.tv3.pt" tvg-name="PT104:SPORT TV 3 SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT104SPORTTV3SD.png" group-title="PT Sports",PT104:SPORT TV 3 SD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29386
+#EXTINF:-1 tvg-id="sport.tv4.pt" tvg-name="PT105:SPORT TV 4 SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT105SPORTTV4SD.png" group-title="PT Sports",PT105:SPORT TV 4 SD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29385
+#EXTINF:-1 tvg-id="canal.11.pt" tvg-name="PT112:Canal 11" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT112Canal11.png" group-title="PT Sports",PT112:Canal 11
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29378
+#EXTINF:-1 tvg-id="cancao.nova.pt" tvg-name="PT114:Cancao Nova" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT114Cancao Nova.png" group-title="PT Sports",PT114:Cancao Nova
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29376
+#EXTINF:-1 tvg-id="eleven.sports.1.pt" tvg-name="PT119:ELEVEN SPORTS 1 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT119ELEVENSPORTS1FHD.png" group-title="PT Sports",PT119:ELEVEN SPORTS 1 FHD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29371
+#EXTINF:-1 tvg-id="eleven.sports.2.pt" tvg-name="PT120:ELEVEN SPORTS 2 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT120ELEVENSPORTS2FHD.png" group-title="PT Sports",PT120:ELEVEN SPORTS 2 FHD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29370
+#EXTINF:-1 tvg-id="eleven.sports.3.pt" tvg-name="PT121:ELEVEN SPORTS 3 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT121ELEVENSPORTS3FHD.png" group-title="PT Sports",PT121:ELEVEN SPORTS 3 FHD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29369
+#EXTINF:-1 tvg-id="eleven.sports.4.pt" tvg-name="PT122:ELEVEN SPORTS 4 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT122ELEVENSPORTS4FHD.png" group-title="PT Sports",PT122:ELEVEN SPORTS 4 FHD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29368
+#EXTINF:-1 tvg-id="eleven.sports.5.pt" tvg-name="PT156:Eleven Sports 5 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT156Eleven Sports 5.png" group-title="PT Sports",PT156:Eleven Sports 5 FHD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/29334
+#EXTINF:-1 tvg-id="eleven.sports.6.pt" tvg-name="PT159:Eleven Sports 6 FHD" tvg-logo="" group-title="PT Sports",PT159:Eleven Sports 6 FHD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/49032
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TR:------|SPORT|---------------------" tvg-logo="" group-title="TR Sports",TR:------|SPORT|---------------------
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/61748
+#EXTINF:-1 tvg-id="trt.spor.tr" tvg-name="TR008:TRT SPOR FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR008TRTSPORSD/HD.png" group-title="TR Sports",TR008:TRT SPOR FHD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/33061
+#EXTINF:-1 tvg-id="trt.3.spor.tr" tvg-name="TR395:TRT SPOR 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR395TRT3SPORFHD.png" group-title="TR Sports",TR395:TRT SPOR 2 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/32674
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TR010:Tivibu Spor 1 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR010TIVIBUSPOR3HD.png" group-title="TR Sports",TR010:Tivibu Spor 1 FHD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/33059
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TR011:Tivibu Spor 2 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR011TIVIBUSPOR1HD.png" group-title="TR Sports",TR011:Tivibu Spor 2 FHD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/33058
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TR012:Tivibu Spor 3 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR012TIVIBUSPOR2HD.png" group-title="TR Sports",TR012:Tivibu Spor 3 FHD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/33057
+#EXTINF:-1 tvg-id="sports.tr" tvg-name="TR015:Sports TV  HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR015SPORTSTVHD.png" group-title="TR Sports",TR015:Sports TV  HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/33054
+#EXTINF:-1 tvg-id="spor.smart.tr" tvg-name="TR016:Smart Spor 1 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR016SPORSMART.png" group-title="TR Sports",TR016:Smart Spor 1 FHD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/33053
+#EXTINF:-1 tvg-id="spor.smart.2.tr" tvg-name="TR017:Smart Spor 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR017SSPORTHD(1).png" group-title="TR Sports",TR017:Smart Spor 2 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/33052
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TR053:Lig tv 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR053Ligtv3.png" group-title="TR Sports",TR053:Lig tv 3
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/33016
+#EXTINF:-1 tvg-id="gs.tr" tvg-name="TR061:GSTV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR061GSTVHD.png" group-title="TR Sports",TR061:GSTV HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/33008
+#EXTINF:-1 tvg-id="fb.tr" tvg-name="TR065:FB TV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR065FBTVHD.png" group-title="TR Sports",TR065:FB TV HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/33004
+#EXTINF:-1 tvg-id="fb.tr" tvg-name="TR240:FB TV SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR240FBTVHD.png" group-title="TR Sports",TR240:FB TV SD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/32829
+#EXTINF:-1 tvg-id="eurosport.2.tr" tvg-name="TR067:Eurosport 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR067EUROSPORT2HD.png" group-title="TR Sports",TR067:Eurosport 2 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/33002
+#EXTINF:-1 tvg-id="eurosport.1.tr" tvg-name="TR068:Eurosport 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR068EUROSPORTHD.png" group-title="TR Sports",TR068:Eurosport 1 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/33001
+#EXTINF:-1 tvg-id="a.spor.tr" tvg-name="TR087:A SPOR FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR087ASPORHD.png" group-title="TR Sports",TR087:A SPOR FHD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/32982
+#EXTINF:-1 tvg-id="a.spor.tr" tvg-name="TR091:A SPOR HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR091ASPORHD(1080P).png" group-title="TR Sports",TR091:A SPOR HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/32978
+#EXTINF:-1 tvg-id="sports.tr" tvg-name="TR123:Sports TV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR123SPORTSTVHD.png" group-title="TR Sports",TR123:Sports TV HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/32946
+#EXTINF:-1 tvg-id="a.spor.tr" tvg-name="TR143:A SPOR SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR143ASPORTFHD.png" group-title="TR Sports",TR143:A SPOR SD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/32926
+#EXTINF:-1 tvg-id="bein.sports.1.tr" tvg-name="TR180:beIN Sports 1 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR180beINSports1FHD.png" group-title="TR Sports",TR180:beIN Sports 1 FHD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/32889
+#EXTINF:-1 tvg-id="bein.sports.2.tr" tvg-name="TR181:beIN Sports 2 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR181beINSports2FHD.png" group-title="TR Sports",TR181:beIN Sports 2 FHD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/32888
+#EXTINF:-1 tvg-id="bein.sports.4.tr" tvg-name="TR182:beIN Sports 4 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR182beINSports4FHD.png" group-title="TR Sports",TR182:beIN Sports 4 FHD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/32887
+#EXTINF:-1 tvg-id="bein.sports.1.tr" tvg-name="TR183:beIN Sports 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR183beINSports1HD.png" group-title="TR Sports",TR183:beIN Sports 1 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/32886
+#EXTINF:-1 tvg-id="bein.sports.2.tr" tvg-name="TR184:beIN Sports 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR184beINSports2HD.png" group-title="TR Sports",TR184:beIN Sports 2 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/32885
+#EXTINF:-1 tvg-id="bein.sports.3.tr" tvg-name="TR185:beIN Sports 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR185beINSports3HD.png" group-title="TR Sports",TR185:beIN Sports 3 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/32884
+#EXTINF:-1 tvg-id="bein.sports.4.tr" tvg-name="TR186:beIN Sports 4 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR186beINSports4HD.png" group-title="TR Sports",TR186:beIN Sports 4 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/32883
+#EXTINF:-1 tvg-id="bein.sports.1.tr" tvg-name="TR187:beIN Sports FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR187beINSportsFHD.png" group-title="TR Sports",TR187:beIN Sports FHD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/32882
+#EXTINF:-1 tvg-id="bein.sports.max.1.tr" tvg-name="TR188:beIN Sports Max 1 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR188beINSportsMax1FHD.png" group-title="TR Sports",TR188:beIN Sports Max 1 FHD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/32881
+#EXTINF:-1 tvg-id="bein.sports.max.2.tr" tvg-name="TR189:beIN Sports Max 2 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR189beINSportsMax2FHD.png" group-title="TR Sports",TR189:beIN Sports Max 2 FHD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/32880
+#EXTINF:-1 tvg-id="bein.sports.haber.tr" tvg-name="TR190:beIN Sports HABER HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR190beINSportsHABERHD.png" group-title="TR Sports",TR190:beIN Sports HABER HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/32879
+#EXTINF:-1 tvg-id="cem.tr" tvg-name="TR207:FORMULA F1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/" group-title="TR Sports",TR207:FORMULA F1
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/32862
+#EXTINF:-1 tvg-id="a.spor.tr" tvg-name="TR197:EXXEN SPORTS 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR197ASPORHD.png" group-title="TR Sports",TR197:EXXEN SPORTS 1 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/32872
+#EXTINF:-1 tvg-id="eurosport.1.tr" tvg-name="TR236:EXXEN SPORTS 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR236EUROSPORT1HD.png" group-title="TR Sports",TR236:EXXEN SPORTS 2 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/32833
+#EXTINF:-1 tvg-id="eurosport.2.tr" tvg-name="TR237:EXXEN SPORTS 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR237EUROSPORT2HD.png" group-title="TR Sports",TR237:EXXEN SPORTS 3 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/32832
+#EXTINF:-1 tvg-id="a.spor.tr" tvg-name="TR284:EXXEN SPORTS 4 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR284ASPOR.png" group-title="TR Sports",TR284:EXXEN SPORTS 4 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/32785
+#EXTINF:-1 tvg-id="gs.tr" tvg-name="TR252:EXXEN SPORTS 5 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR252GSTVHD.png" group-title="TR Sports",TR252:EXXEN SPORTS 5 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/32817
+#EXTINF:-1 tvg-id="s.sport.2.tr" tvg-name="TR370:EXXEN SPORTS 6 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR370LIGTV4.png" group-title="TR Sports",TR370:EXXEN SPORTS 6 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/32699
+#EXTINF:-1 tvg-id="nba.tr" tvg-name="TR326:NBA TV FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR326NBATVFHD.png" group-title="TR Sports",TR326:NBA TV FHD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/32743
+#EXTINF:-1 tvg-id="s.sport.tr" tvg-name="TR341:S SPORT HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR341SSPORT2FHD.png" group-title="TR Sports",TR341:S SPORT HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/32728
+#EXTINF:-1 tvg-id="s.sport.2.tr" tvg-name="TR369:S sport 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR369SMARTSPOR1HD.png" group-title="TR Sports",TR369:S sport 2 HD
+http://mvu03.wanicelife.com:8880/EFLW122114/70NF2GH1/32700
